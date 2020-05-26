@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
  <title>Andrew Grathwohl</title>
- <link href="https://example.com/atom.xml" rel="self"/>
- <link href="https://example.com/"/>
- <updated>2020-05-26T13:59:58-04:00</updated>
- <id>https://example.com</id>
+ <link href="https://grathwohl.me/atom.xml" rel="self"/>
+ <link href="https://grathwohl.me/"/>
+ <updated>2020-05-26T14:06:37-04:00</updated>
+ <id>https://grathwohl.me</id>
  <author>
    <name></name>
    <email></email>
@@ -14,9 +14,9 @@
  
  <entry>
    <title>Distributed Media's Ancient Origins</title>
-   <link href="https://example.com/2019/11/04/distributed-media"/>
+   <link href="https://grathwohl.me/2019/11/04/distributed-media"/>
    <updated>2019-11-04T07:00:00-05:00</updated>
-   <id>https://example.com/2019/11/04/Distributed-Media</id>
+   <id>https://grathwohl.me/2019/11/04/Distributed-Media</id>
    <content type="html">&lt;blockquote&gt;
   &lt;p&gt;This article originally appeared on the &lt;a href=&quot;https://medium.com/ara-blocks&quot;&gt;ARA Medium channel&lt;/a&gt;.&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -93,9 +93,9 @@
  
  <entry>
    <title>Audio Mastering Workflow for Linux</title>
-   <link href="https://example.com/2019/05/05/linuxmasteringflow-1"/>
+   <link href="https://grathwohl.me/2019/05/05/linuxmasteringflow-1"/>
    <updated>2019-05-05T12:15:00-04:00</updated>
-   <id>https://example.com/2019/05/05/linuxmasteringflow_1</id>
+   <id>https://grathwohl.me/2019/05/05/linuxmasteringflow_1</id>
    <content type="html">&lt;p&gt;This series of posts will detail the audio mastering workflow I employ on my main Linux workstation:&lt;/p&gt;
 
 &lt;ul&gt;
@@ -260,9 +260,9 @@ systemctl enable cpupower &amp;amp;&amp;amp; systemctl start cpupower
  
  <entry>
    <title>Playing Your Audible Audiobooks In Linux</title>
-   <link href="https://example.com/2018/09/10/audibleffmpeg"/>
+   <link href="https://grathwohl.me/2018/09/10/audibleffmpeg"/>
    <updated>2018-09-10T06:44:00-04:00</updated>
-   <id>https://example.com/2018/09/10/audibleffmpeg</id>
+   <id>https://grathwohl.me/2018/09/10/audibleffmpeg</id>
    <content type="html">&lt;p&gt;If you want to convert an Audible .aax file into a less restrictive file format, you can do so with ease using &lt;a href=&quot;https://ffmpeg.org/&quot;&gt;FFmpeg&lt;/a&gt;, one of my all-time favorite GPL projects.&lt;/p&gt;
 
 &lt;p&gt;Navigate to the directory where the .aax file is that you’d like to test on, and perform the following on the command line:&lt;/p&gt;
@@ -278,9 +278,9 @@ systemctl enable cpupower &amp;amp;&amp;amp; systemctl start cpupower
  
  <entry>
    <title>Hacking Isn’t Searching; It’s Quartering</title>
-   <link href="https://example.com/2018/06/25/hacking-is-quartering"/>
+   <link href="https://grathwohl.me/2018/06/25/hacking-is-quartering"/>
    <updated>2018-06-25T08:00:00-04:00</updated>
-   <id>https://example.com/2018/06/25/Hacking-Is-Quartering</id>
+   <id>https://grathwohl.me/2018/06/25/Hacking-Is-Quartering</id>
    <content type="html">&lt;p&gt;A common critique of the deep state’s dragnet surveillance operation is to depict it as a violation of the Fourth Amendment. The pundits and politicians who publicly railed against the recent NSA and FBI revelations commonly referred to the issue as one of “warrant-less” wiretapping, data collection, and spying.&lt;/p&gt;
 
 &lt;p&gt;But that isn’t quite the game that signals intelligence analysts and network security experts are playing.&lt;/p&gt;
@@ -369,9 +369,9 @@ Where are the majority of your 2017 financial documents and records stored — a
  
  <entry>
    <title>FFmpeg 3.0 Is Here</title>
-   <link href="https://example.com/2016/02/14/ffmpeg3ishere"/>
+   <link href="https://grathwohl.me/2016/02/14/ffmpeg3ishere"/>
    <updated>2016-02-14T23:11:00-05:00</updated>
-   <id>https://example.com/2016/02/14/ffmpeg3ishere</id>
+   <id>https://grathwohl.me/2016/02/14/ffmpeg3ishere</id>
    <content type="html">&lt;p&gt;The team behind FFmpeg unveiled a major new release, “Einstein,” recently, and in the release notes appears a strongly-worded suggestion:&lt;/p&gt;
 
 &lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;We strongly recommend users, distributors, and system integrators to upgrade unless they use current git master.&lt;/code&gt;&lt;/p&gt;
