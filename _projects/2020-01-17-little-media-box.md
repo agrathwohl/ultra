@@ -20,5 +20,6 @@ $ npm install little-media-box
 
 ## Technologies Used
 
-- `ffmpeg`
-- `mkvtoolnix`
+- node 14.3.0
+- ffmpeg
+- mkvtoolnix

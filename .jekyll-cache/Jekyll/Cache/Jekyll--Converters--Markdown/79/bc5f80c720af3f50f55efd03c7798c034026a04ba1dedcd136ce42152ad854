@@ -1,4 +1,4 @@
-I"<blockquote>
+I"ã<blockquote>
   <p>Convenient atomicized classes for representing digital multimedia assets
 in distributed Node.js DSP pipelines.</p>
 </blockquote>
@@ -15,7 +15,8 @@ in distributed Node.js DSP pipelines.</p>
 <h2 id="technologies-used">Technologies Used</h2>
 
 <ul>
-  <li><code class="highlighter-rouge">ffmpeg</code></li>
-  <li><code class="highlighter-rouge">mkvtoolnix</code></li>
+  <li>node 14.3.0</li>
+  <li>ffmpeg</li>
+  <li>mkvtoolnix</li>
 </ul>
 :ET
