@@ -14,3 +14,9 @@ View the project on [GitHub](https://github.com/SacredData/koyaanisqatsi-in-a-bo
 ```sh
 $ npm install SacredData/koyaanisqatsi-in-a-box
 ```
+
+## Technologies Used
+
+- ffmpeg
+- mkvtoolnix
+- vapoursynth
