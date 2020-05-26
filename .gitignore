@@ -4,6 +4,5 @@ tmp
 .sass-cache
 Gemfile.lock
 _drafts
-_site
 .DS_Store
 .git
