@@ -19,3 +19,9 @@ View this project on [GitHub](https://github.com/littlstar/ls-psvr-encoder).
 * Properly names encoded videos for compatibility with VR Cinema's file naming conventions.
 * Subtitle track overlay (for 2D fixed-frame video only)
 * Embeds a thumbnail into the output video for easier library navigation.
+
+## Installation
+
+```sh
+$ npm install littlstar/ls-psvr-encoder -g
+```

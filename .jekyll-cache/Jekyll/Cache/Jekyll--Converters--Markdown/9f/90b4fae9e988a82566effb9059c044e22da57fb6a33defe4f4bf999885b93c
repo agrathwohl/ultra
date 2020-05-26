@@ -1,4 +1,4 @@
-I"¡<blockquote>
+I"·<blockquote>
   <p>A command line tool to encode your 180, 360, and fixed-frame videos for sideloading with Littlstarâ€™s VR Cinema apps.</p>
 </blockquote>
 
@@ -16,4 +16,9 @@
   <li>Subtitle track overlay (for 2D fixed-frame video only)</li>
   <li>Embeds a thumbnail into the output video for easier library navigation.</li>
 </ul>
+
+<h2 id="installation">Installation</h2>
+
+<div class="language-sh highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nv">$ </span>npm <span class="nb">install </span>littlstar/ls-psvr-encoder <span class="nt">-g</span>
+</code></pre></div></div>
 :ET

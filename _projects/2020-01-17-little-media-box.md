@@ -17,3 +17,8 @@ View this project on [GitHub](https://github.com/little-core-labs/little-media-b
 ```sh
 $ npm install little-media-box
 ```
+
+## Technologies Used
+
+- `ffmpeg`
+- `mkvtoolnix`
