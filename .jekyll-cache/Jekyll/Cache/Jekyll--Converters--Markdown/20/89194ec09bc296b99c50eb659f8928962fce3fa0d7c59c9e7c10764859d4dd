@@ -1,0 +1,14 @@
+I"e<blockquote>
+  <p>Convenient atomicized classes for representing digital multimedia assets
+in distributed Node.js DSP pipelines.</p>
+</blockquote>
+
+<p>This module serves as the software foundation all of Littlstar’s backend VOD and stream transcoding services.</p>
+
+<p>View this project on <a href="https://github.com/little-core-labs/little-media-box">GitHub</a>.</p>
+
+<h2 id="installation">Installation</h2>
+
+<div class="language-sh highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nv">$ </span>npm <span class="nb">install </span>little-media-box
+</code></pre></div></div>
+:ET

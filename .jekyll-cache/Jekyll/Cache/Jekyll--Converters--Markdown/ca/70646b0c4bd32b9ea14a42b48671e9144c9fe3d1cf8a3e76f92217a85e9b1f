@@ -1,0 +1,6 @@
+I"¿<blockquote>
+  <p>kib is an application that performs a combination of analysis, DSP, and post-production to achieve synchronized video and audio tracks in a single container, even if the audio and video inputs are of different lengths. It does this all within the confines of FFmpeg, Vapoursynth, and the Matroska container.</p>
+</blockquote>
+
+<p>View the project on <a href="https://github.com/SacredData/koyaanisqatsi-in-a-box">GitHub</a>.</p>
+:ET
