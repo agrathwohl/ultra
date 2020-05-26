@@ -24,3 +24,11 @@ My passion project of over ten years, [Sonic Multiplicities](https://multipli.ci
 #### Broken Hearts on Ice
 
 [Episodic nightmares](https://brokenheartsonice.bandcamp.com/) for immersive listening environments.
+
+### More
+
+#### [GitHub](https://github.com/agrathwohl)
+
+#### [Resume & CV](/AndrewGrathwohl.pdf)
+
+#### [LinkedIn](https://www.linkedin.com/in/andrewgrathwohl/)
