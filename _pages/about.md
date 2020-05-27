@@ -5,7 +5,7 @@ title: About
 
 ## Andrew Grathwohl
 
-> Welcome to my homepage. Here, from time to time I will post things I am working on, thoughts I am having, and ideas I am looking to develop further. I endeavor for Grathwohl.me to uphold three basic design traits: fast load times, simple navigation, and end-user privacy. If I have failed to uphold these in any way and you want to tell me about it I welcome you to [drop me a line](mailto:andrew@grathwohl.me). 
+> Welcome to my homepage. Here, from time to time I will post things I am working on, thoughts I am having, and ideas I am looking to develop further. I endeavor for Grathwohl.me to uphold three basic design traits: fast load times, simple navigation, and end-user privacy. If I have failed to uphold these in any way and you want to tell me about it I welcome you to [drop me a line](mailto:andrew@grathwohl.me) or [send me a PR](https://github.com/agrathwohl/ultra). 
 
 I am a multimedia technologist from Brooklyn, NY interested in using [free software](https://www.gnu.org/philosophy/free-sw.en.html) to solve hard problems for digital creatives and content distributors.
 

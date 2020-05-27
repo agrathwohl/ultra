@@ -12,7 +12,7 @@ View the project on [GitHub](https://github.com/SacredData/koyaanisqatsi-in-a-bo
 ## Installation
 
 ```sh
-$ npm install SacredData/koyaanisqatsi-in-a-box
+$ npm i SacredData/koyaanisqatsi-in-a-box -g
 ```
 
 ## Technologies Used
