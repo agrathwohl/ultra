@@ -1,0 +1,21 @@
+I"Ê<p><img src="/project-suprnova-logo.jpg" alt="" /></p>
+
+<blockquote>
+  <p>Suprnova is a peer-to-peer video encoding and delivery tool for content creators, powered by <a href="https://ara.one">Ara</a>. It allows content creators to invite their fans to directly participate in the transcoding of new content. This is achieved by segmenting videos into tiny chunks of frames, which then get distributed to all participants in the Suprnova encoding pool to be processed. In exchange for this participation, users are rewarded by being the first to receive access to the new content.</p>
+</blockquote>
+
+<p><img src="/project-suprnova.jpg" alt="" /></p>
+
+<p>Learn more at <a href="https://suprnova.video/">suprnova.video</a>.</p>
+
+<h2 id="technologies-used">Technologies Used</h2>
+
+<ul>
+  <li>Node.js</li>
+  <li>Matroska</li>
+  <li>FFmpeg</li>
+  <li>Hyperdrive</li>
+  <li>Intel QSV &amp; Media SDK</li>
+  <li><code class="highlighter-rouge">noise-protocol</code></li>
+</ul>
+:ET
