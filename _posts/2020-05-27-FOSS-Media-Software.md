@@ -9,6 +9,12 @@ The FOSS ecosystem's many benefits present only a few minor annoyances for sysad
 
 If you are in need of suggestions for FOSS media software, this article is for you.
 
+## TLDR
+
+```sh
+$ pacman -S sox mpv vapoursynth ffmpeg mkvtoolnix-cli graphicsmagick
+```
+
 ### Audio
 
 #### SoX (LGPL)
@@ -58,4 +64,3 @@ Many think that *if you can't do it in FFmpeg, it probably can't be done*, but t
 VapourSynth is a powerful open source Python framework for advanced video frame processing and other visual DSP operations. It's got some of the best post-production and color tooling out there, and a really healthy community of video freak contributors who dogfood their own work in meaningful ways. It is in many ways a replacement for the aging, less-performant AviSynth framework.
 
 A few notes about VapourSynth... first, this is definitely software developed by *media engineers*, so you will discover bugs. Expect releases to come out very frequently, and definitely don't skip reading the docs. Also, some operations on VapourSynth will take a *hilariously* long amount of time to complete, though the results are often worth the wait.
-

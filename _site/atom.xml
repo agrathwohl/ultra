@@ -4,7 +4,7 @@
  <title>Andrew Grathwohl</title>
  <link href="https://grathwohl.me/atom.xml" rel="self"/>
  <link href="https://grathwohl.me/"/>
- <updated>2020-05-27T16:32:11-04:00</updated>
+ <updated>2020-05-27T16:46:21-04:00</updated>
  <id>https://grathwohl.me</id>
  <author>
    <name></name>
@@ -20,6 +20,11 @@
    <content type="html">&lt;p&gt;The FOSS ecosystem’s many benefits present only a few minor annoyances for sysadmins - the most significant of which is the need for research, as well as trial-and-error, when investigating new software to employ in your stack.&lt;/p&gt;
 
 &lt;p&gt;If you are in need of suggestions for FOSS media software, this article is for you.&lt;/p&gt;
+
+&lt;h2 id=&quot;tldr&quot;&gt;TLDR&lt;/h2&gt;
+
+&lt;div class=&quot;language-sh highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;nv&quot;&gt;$ &lt;/span&gt;pacman &lt;span class=&quot;nt&quot;&gt;-S&lt;/span&gt; sox mpv vapoursynth ffmpeg mkvtoolnix-cli graphicsmagick
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 
 &lt;h3 id=&quot;audio&quot;&gt;Audio&lt;/h3&gt;
 
@@ -70,7 +75,6 @@
 &lt;p&gt;VapourSynth is a powerful open source Python framework for advanced video frame processing and other visual DSP operations. It’s got some of the best post-production and color tooling out there, and a really healthy community of video freak contributors who dogfood their own work in meaningful ways. It is in many ways a replacement for the aging, less-performant AviSynth framework.&lt;/p&gt;
 
 &lt;p&gt;A few notes about VapourSynth… first, this is definitely software developed by &lt;em&gt;media engineers&lt;/em&gt;, so you will discover bugs. Expect releases to come out very frequently, and definitely don’t skip reading the docs. Also, some operations on VapourSynth will take a &lt;em&gt;hilariously&lt;/em&gt; long amount of time to complete, though the results are often worth the wait.&lt;/p&gt;
-
 </content>
  </entry>
  
