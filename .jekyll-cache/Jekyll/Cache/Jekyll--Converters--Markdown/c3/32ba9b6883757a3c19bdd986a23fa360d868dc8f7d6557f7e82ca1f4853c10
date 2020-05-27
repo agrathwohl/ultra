@@ -1,10 +1,14 @@
-I"Ê<p><img src="/project-suprnova-logo.jpg" alt="" /></p>
+I"{<p><img src="/project-suprnova-logo.jpg" alt="" /></p>
 
 <blockquote>
   <p>Suprnova is a peer-to-peer video encoding and delivery tool for content creators, powered by <a href="https://ara.one">Ara</a>. It allows content creators to invite their fans to directly participate in the transcoding of new content. This is achieved by segmenting videos into tiny chunks of frames, which then get distributed to all participants in the Suprnova encoding pool to be processed. In exchange for this participation, users are rewarded by being the first to receive access to the new content.</p>
 </blockquote>
 
+<p>A collaboration between Littlstar, Microsoft, and Intel to develop exciting media applications for the new Universal Windows Platform app ecosystem using the Intel Media SDK.</p>
+
 <p><img src="/project-suprnova.jpg" alt="" /></p>
+
+<p><em>The Suprnova project was ended after Microsoft discontinued its <a href="https://www.theverge.com/2019/5/30/18645609/microsofts-universal-windows-app-dead-microsoft-store-windows-store">Universal Windows Platform</a></em>.</p>
 
 <p>Learn more at <a href="https://suprnova.video/">suprnova.video</a>.</p>
 
@@ -12,6 +16,7 @@
 
 <ul>
   <li>Node.js</li>
+  <li>Ara</li>
   <li>Matroska</li>
   <li>FFmpeg</li>
   <li>Hyperdrive</li>
