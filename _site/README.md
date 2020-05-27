@@ -1,20 +1,11 @@
-# Ultra - Super fast Jekyll theme
+# Grathwohl.me
 
-Super fast, minimal one-column portfolio/blog theme built for Jekyll. Theme weighs under <strong>2kb</strong>. Perfect for your personal website, blog and portfolio.
+## Get Started
 
-### Key features
+- Clone the repo, then run `bundle install` inside the root.
 
-- seo optimized
-- weighs under 2kb
-- portfolio/blog pages
-- AAA, 100/100 scores on Lighthouse, Gmetrix and Webpagetest
-- responsive
-- inline css
-- compressed css, html
-- sitemap
-- robots.txt
-- atom feed
+## Make Changes & Publish To Grathwohl.me
 
-![Screenshot](ultra.png)
-
-# Demo [here](https://ultra-jekyll.netlify.com/)
+- `bundle exec jekyll build` after making any new changes. New static site assets will be in `_site/`.
+- Push changes to the `master` branch.
+- SSH into grathwohl.me, `cd` to `/home/user-data/www/ultra/_site`, then copy the data: `cp -rv * ../../default/`
