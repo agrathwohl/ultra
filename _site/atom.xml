@@ -4,7 +4,7 @@
  <title>Andrew Grathwohl</title>
  <link href="https://grathwohl.me/atom.xml" rel="self"/>
  <link href="https://grathwohl.me/"/>
- <updated>2020-05-27T16:19:25-04:00</updated>
+ <updated>2020-05-27T16:32:11-04:00</updated>
  <id>https://grathwohl.me</id>
  <author>
    <name></name>
@@ -23,23 +23,47 @@
 
 &lt;h3 id=&quot;audio&quot;&gt;Audio&lt;/h3&gt;
 
-&lt;h4 id=&quot;sox&quot;&gt;SoX&lt;/h4&gt;
+&lt;h4 id=&quot;sox-lgpl&quot;&gt;SoX (LGPL)&lt;/h4&gt;
 
 &lt;p&gt;&lt;a href=&quot;http://sox.sourceforge.net/&quot;&gt;SoX&lt;/a&gt; - or, Sound eXchange - is an LGPL application for processing sound. It supports every free (and some non-free) audio codecs, and employs by far the best resampler out there today, &lt;code class=&quot;highlighter-rouge&quot;&gt;libsoxr&lt;/code&gt;. Below, we see SoX totally annhilating expensive, proprietary “professional” audio software, Ableton Live, in a sampling rate conversion test.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/sox-src.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
+&lt;h3 id=&quot;containers&quot;&gt;Containers&lt;/h3&gt;
+
+&lt;h4 id=&quot;matroska&quot;&gt;Matroska&lt;/h4&gt;
+
+&lt;p&gt;If you want to stay sane working with media in the FOSS realm, you’ll need to be using &lt;a href=&quot;https://www.matroska.org/&quot;&gt;Matroska&lt;/a&gt;. A fully open and highly extensible container format, it is just about as free as free software gets.&lt;/p&gt;
+
+&lt;p&gt;At a minimum, make sure you have &lt;a href=&quot;https://mkvtoolnix.download/&quot;&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;mkvtoolnix&lt;/code&gt;&lt;/a&gt; laying around for easy and flexible muxing, demuxing, and metadata tasks.&lt;/p&gt;
+
+&lt;h3 id=&quot;images&quot;&gt;Images&lt;/h3&gt;
+
+&lt;p&gt;For many years, the undisputed FOSS image processing king was &lt;code class=&quot;highlighter-rouge&quot;&gt;ImageMagick&lt;/code&gt;, however over the years the project has failed to address meaningful inefficiencies and bugs within the software. This spawned the &lt;code class=&quot;highlighter-rouge&quot;&gt;GraphicsMagick&lt;/code&gt; fork, which I would recommend to most users. Only those who need its deep colors features should consider sticking with the old and tired ImageMagick.&lt;/p&gt;
+
+&lt;h4 id=&quot;graphicsmagick-mit&quot;&gt;GraphicsMagick (MIT)&lt;/h4&gt;
+
+&lt;p&gt;If you are needing to process images in batch, &lt;a href=&quot;http://www.graphicsmagick.org/&quot;&gt;GraphicsMagick&lt;/a&gt; is your starting shortstop. Its use of OpenMP means that CPU-bound tasks scale linearly as processor cores are added.&lt;/p&gt;
+
+&lt;h3 id=&quot;playback&quot;&gt;Playback&lt;/h3&gt;
+
+&lt;h4 id=&quot;mpv&quot;&gt;mpv&lt;/h4&gt;
+
+&lt;p&gt;The VideoLan folks have always done a fantastic job with the VLC player, however if you are serious about working with media you’ll want to move on over to the new king of FOSS media playback, &lt;code class=&quot;highlighter-rouge&quot;&gt;mpv&lt;/code&gt;. Those 10-bit color anime folks love it, so you know it must be good.&lt;/p&gt;
+
+&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;mpv&lt;/code&gt; has a world-class plugin system that enables users to contribute scripts and plugins in either Lua and NodeJS. This is very useful for media analysis and for media processing automation.&lt;/p&gt;
+
 &lt;h3 id=&quot;video&quot;&gt;Video&lt;/h3&gt;
 
 &lt;p&gt;Video encoding and DSP today is largely centralized within the FFmpeg project, however more advanced operations will require additional tooling.&lt;/p&gt;
 
-&lt;h4 id=&quot;ffmpeg&quot;&gt;FFmpeg&lt;/h4&gt;
+&lt;h4 id=&quot;ffmpeg-lgplgplnon-free&quot;&gt;FFmpeg (LGPL/GPL/non-free)&lt;/h4&gt;
 
 &lt;p&gt;&lt;a href=&quot;https://ffmpeg.org&quot;&gt;FFmpeg&lt;/a&gt; is one the most significant and prolific FOSS projects out there today. Known as the “Swiss Army Knife” of multimedia coding, FFmpeg is an indispensible tool for your media workflow, and will likely be a dependency for building many other great media tools.&lt;/p&gt;
 
 &lt;p&gt;You’d be pretty crazy to attempt any video work within the FOSS ecosystem without a recent build of FFmpeg.&lt;/p&gt;
 
-&lt;h4 id=&quot;vapoursynth&quot;&gt;VapourSynth&lt;/h4&gt;
+&lt;h4 id=&quot;vapoursynth-lgpl&quot;&gt;VapourSynth (LGPL)&lt;/h4&gt;
 
 &lt;p&gt;Many think that &lt;em&gt;if you can’t do it in FFmpeg, it probably can’t be done&lt;/em&gt;, but that’s probably because they don’t know about &lt;a href=&quot;http://www.vapoursynth.com/&quot;&gt;Vapoursynth&lt;/a&gt;.&lt;/p&gt;
 
@@ -47,21 +71,6 @@
 
 &lt;p&gt;A few notes about VapourSynth… first, this is definitely software developed by &lt;em&gt;media engineers&lt;/em&gt;, so you will discover bugs. Expect releases to come out very frequently, and definitely don’t skip reading the docs. Also, some operations on VapourSynth will take a &lt;em&gt;hilariously&lt;/em&gt; long amount of time to complete, though the results are often worth the wait.&lt;/p&gt;
 
-&lt;h3 id=&quot;general&quot;&gt;General&lt;/h3&gt;
-
-&lt;h4 id=&quot;containers&quot;&gt;Containers&lt;/h4&gt;
-
-&lt;p&gt;If you want to stay sane working with media in the FOSS realm, you’ll need to be using &lt;a href=&quot;https://www.matroska.org/&quot;&gt;Matroska&lt;/a&gt;. A fully open and highly extensible container format, it is just about as free as free software gets.&lt;/p&gt;
-
-&lt;p&gt;At a minimum, make sure you have &lt;a href=&quot;https://mkvtoolnix.download/&quot;&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;mkvtoolnix&lt;/code&gt;&lt;/a&gt; laying around for easy and flexible muxing, demuxing, and metadata tasks.&lt;/p&gt;
-
-&lt;h4 id=&quot;media-playback&quot;&gt;Media Playback&lt;/h4&gt;
-
-&lt;h4 id=&quot;mpv&quot;&gt;mpv&lt;/h4&gt;
-
-&lt;p&gt;The VideoLan folks have always done a fantastic job with the VLC player, however if you are serious about working with media you’ll want to move on over to the new king of FOSS media playback, &lt;code class=&quot;highlighter-rouge&quot;&gt;mpv&lt;/code&gt;. Those 10-bit color anime folks love it, so you know it must be good.&lt;/p&gt;
-
-&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;mpv&lt;/code&gt; has a world-class plugin system that enables users to contribute scripts and plugins in either Lua and NodeJS. This is very useful for media analysis and for media processing automation.&lt;/p&gt;
 </content>
  </entry>
  
