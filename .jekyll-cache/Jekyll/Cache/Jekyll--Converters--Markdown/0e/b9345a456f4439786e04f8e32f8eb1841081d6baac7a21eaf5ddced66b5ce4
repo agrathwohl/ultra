@@ -1,8 +1,8 @@
-I"S<p>This SC3 codebase is written in pure <code class="highlighter-rouge">sclang</code> and has been in active development since 2009. It is the audio analysis and DSP core of the <a href="https://multipli.city/">Sonic Multiplicities</a> performance platform, optimized for a dedicated rack-mount <code class="highlighter-rouge">linux-rt</code> system with professional audio interface access.</p>
+I"Ÿ<p>This SC3 codebase is written in pure <code class="language-plaintext highlighter-rouge">sclang</code> and has been in active development since 2009. It is the audio analysis and DSP core of the <a href="https://multipli.city/">Sonic Multiplicities</a> performance platform, optimized for a dedicated rack-mount <code class="language-plaintext highlighter-rouge">linux-rt</code> system with professional audio interface access.</p>
 
 <p>View this project on <a href="https://github.com/SacredData/sonic-multiplicities-core">GitHub</a>.</p>
 
-<p>It is also available as an <code class="highlighter-rouge">scide</code> <a href="https://github.com/empire-sm/startup.scd/blob/master/startup.scd">startup file</a> using the new multi-threaded <code class="highlighter-rouge">Supernova</code> server.</p>
+<p>It is also available as an <code class="language-plaintext highlighter-rouge">scide</code> <a href="https://github.com/empire-sm/startup.scd/blob/master/startup.scd">startup file</a> using the new multi-threaded <code class="language-plaintext highlighter-rouge">Supernova</code> server.</p>
 
 <h2 id="technologies-used">Technologies Used</h2>
 

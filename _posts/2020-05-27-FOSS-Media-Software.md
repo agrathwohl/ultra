@@ -43,6 +43,8 @@ If you are needing to process images in batch, [GraphicsMagick](http://www.graph
 
 #### mpv
 
+![](/mpv.jpg)
+
 The VideoLan folks have always done a fantastic job with the VLC player, however if you are serious about working with media you'll want to move on over to the new king of FOSS media playback, `mpv`. Those 10-bit color anime folks love it, so you know it must be good.
 
 `mpv` has a world-class plugin system that enables users to contribute scripts and plugins in either Lua and NodeJS. This is very useful for media analysis and for media processing automation.
@@ -58,6 +60,8 @@ Video encoding and DSP today is largely centralized within the FFmpeg project, h
 You'd be pretty crazy to attempt any video work within the FOSS ecosystem without a recent build of FFmpeg.
 
 #### VapourSynth (LGPL)
+
+![](/vs.jpg)
 
 Many think that *if you can't do it in FFmpeg, it probably can't be done*, but that's probably because they don't know about [Vapoursynth](http://www.vapoursynth.com/).
 
