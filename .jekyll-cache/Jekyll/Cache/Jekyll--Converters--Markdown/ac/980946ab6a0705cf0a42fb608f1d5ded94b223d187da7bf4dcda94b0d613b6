@@ -1,0 +1,38 @@
+I"W<p>Recently, I’ve found myself situated among a <a href="https://news.yahoo.com/whats-sound-not-just-york-025006561.html?soc_src=hl-viewer&amp;soc_trk=tw">great fireworks battle</a> in Brooklyn, NY. As we continue to work out the details about the heightened fireworks activity across the United States, I felt it was important that I document and share my experience to contribute what I can to the ongoing conversation. So, I grabbed an old IP camera I had in a corner gathering dust, placed it outside on my fire escape, and fired it up to get a decent shot of the night sky in my neighborhood.</p>
+
+<h2 id="ip-camera-trickiness">IP Camera Trickiness</h2>
+
+<p><img src="/rtsp-control.jpg" alt="" /></p>
+
+<p>I did a little snooping around the control pannel software on the camera to discover that the RTSP protocol is used to transport the signal over ethernet. Being an FFmpeg stan, I was confident that I would be able to quickly grab and relay my <a href="https://store.ui.com/collections/unifi-protect-cameras/products/unifi-video-camera-g3-dome">UVC-G3-DOME</a> signal right away. However, I failed to consider the contexts posed by the delivery transport. So, I was a bit surprised to discover that typing a typical <code class="language-plaintext highlighter-rouge">ffmpeg</code> test command to ingest this camera’s feed resulted in some really weird error logs and a very corrupt video output.</p>
+
+<div class="language-sh highlighter-rouge"><div class="highlight"><pre class="highlight"><code>ffmpeg <span class="nt">-re</span> <span class="nt">-i</span> rtsp://192.168.3.55:554/s0 <span class="nt">-c</span>:v libx264 <span class="nt">-c</span>:a libmp3lame test.mkv
+</code></pre></div></div>
+
+<p><img src="/rtsp-corrupt.jpg" alt="" /></p>
+
+<p>The above command would be adequate for testing the feed from software like <code class="language-plaintext highlighter-rouge">obs</code> and from services like AWS Kinesis or Wowza Cloud. But this RTSP signal looked all sorts of weird when saved to disk.</p>
+
+<h2 id="how-to-rtsp-in-ffmpeg">How To RTSP in FFmpeg</h2>
+
+<p>Upon doing some research, I discovered that <code class="language-plaintext highlighter-rouge">ffmpeg</code> has rich support for the <a href="http://ffmpeg.org/ffmpeg-all.html#rtsp">RTSP protocol</a>, but as a result there are some specific FFmpeg flags that must be utilized that I’d failed to include in my previous test command. <code class="language-plaintext highlighter-rouge">ffmpeg</code> requires the <code class="language-plaintext highlighter-rouge">-rtsp_transport</code> input flag to declare the transport used by the camera - TCP in my camera’s case. This new test command produced a most agreeable output.</p>
+
+<div class="language-sh highlighter-rouge"><div class="highlight"><pre class="highlight"><code>ffmpeg <span class="nt">-re</span> <span class="nt">-rtsp_transport</span> tcp <span class="nt">-i</span> rtsp://192.168.3.55:554/s0 <span class="nt">-c</span>:v libx264 <span class="nt">-c</span>:a libmp3lame test.mkv
+</code></pre></div></div>
+
+<p><img src="/rtsp-clean.jpg" alt="" /></p>
+
+<h3 id="rtmp-relaying">RTMP Relaying</h3>
+
+<p>My ultimate use case is a common one - I wanted to be able to record the live feed to local disk as well as relay the stream to a YouTube live stream RTMP endpoint. To accomplish this, <code class="language-plaintext highlighter-rouge">ffmpeg</code> requires some specific output options declared to ensure compliance, as the direct RTSP signal from the camera is not in a compliant format.</p>
+
+<p>To resolve the RTMP compliance issue, I declared <code class="language-plaintext highlighter-rouge">-f flv -ar 44100 -r 30/1 -pix_fmt yuv420p</code> as output options for the RTMP portion of  my <code class="language-plaintext highlighter-rouge">ffmpeg</code> command. Declaring the format as FLV ensures the output bytestream is ordered in a way that is compliant with YouTube’s RTMP endpoint. Setting an explicit 44.1kHz sampling frequency for our audio guarantees full-spectrum audio while lowering overall output bitrate. And finally, enforcing the YUV420P pixel format ensures that your camera’s colors are correctly transformed to match YouTube’s color space.</p>
+
+<p>The full command now looks like this:</p>
+
+<div class="language-sh highlighter-rouge"><div class="highlight"><pre class="highlight"><code>ffmpeg <span class="nt">-re</span> <span class="nt">-rtsp_transport</span> tcp <span class="nt">-i</span> rtsp://192.168.3.55:554/s0 <span class="nt">-c</span>:v copy <span class="se">\</span>
+<span class="nt">-c</span>:a copy stream_capture.mkv <span class="nt">-c</span>:v libx264 <span class="nt">-b</span>:v 3M <span class="nt">-minrate</span>:v 3M <span class="nt">-maxrate</span>:v 3M <span class="se">\</span>
+<span class="nt">-bufsize</span>:v 6M <span class="nt">-g</span> 120 <span class="nt">-r</span> 30/1 <span class="nt">-x264-params</span> <span class="nv">keyint</span><span class="o">=</span>120:min-keyint<span class="o">=</span>60 <span class="se">\</span>
+<span class="nt">-c</span>:a libmp3lame <span class="nt">-ar</span> 44100 <span class="nt">-pix_fmt</span> yuv420p rtmp://YOUTUBE_RTMP_URL
+</code></pre></div></div>
+:ET
