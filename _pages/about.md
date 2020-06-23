@@ -13,7 +13,7 @@ I am a multimedia technologist from Brooklyn, NY interested in using [free softw
 
 Some of my previous work efforts include Audible's [Audiobook Creation Exchange](https://acx.com), [SpokenLayer](https://spokenlayer.com), [Showtime Anytime](https://www.showtimeanytime.com/), and [Littlstar](https://littlstar.com).
 
-One of my passions is evangelizing industry best-practices in order to reduce the technological boundaries that exist between content creators and their distributors. I have spoken at industry events dealing with topics ranging from [DIY audiobook production workflows](https://www.youtube.com/watch?v=QHmtV1Pe1hA) to [the M&E industry's adoption of next-generation video codecs](https://www.youtube.com/watch?v=PViEtj9yQAE). If you would like me to speak at your next event, please do not hesitate to [reach out](mailto:andrew@grathwohl.me).
+I have spoken at industry events dealing with topics ranging from [DIY audiobook production workflows](https://www.youtube.com/watch?v=QHmtV1Pe1hA) to [the M&E industry's adoption of next-generation video codecs](https://www.youtube.com/watch?v=PViEtj9yQAE). If you would like me to speak at your next event, please do not hesitate to [reach out](mailto:andrew@grathwohl.me).
 
 ### Music
 

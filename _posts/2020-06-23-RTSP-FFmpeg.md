@@ -45,3 +45,7 @@ ffmpeg -re -rtsp_transport tcp -i rtsp://192.168.3.55:554/s0 -c:v copy \
 -bufsize:v 6M -g 120 -r 30/1 -x264-params keyint=120:min-keyint=60 \
 -c:a libmp3lame -ar 44100 -pix_fmt yuv420p rtmp://YOUTUBE_RTMP_URL
 ```
+
+![](/fireworks.gif)
+
+That's definitely a firework exploding a few feet away from my apartment building! Nice.
