@@ -1,0 +1,21 @@
+I"ù<blockquote>
+  <p>Baptism is the first stage in the SACRED AUDIO automated workflow. It
+objectifies WAV files and provides interfaces to ffmpeg and sox to produce
+industry-compliant analyses of the audio data.</p>
+</blockquote>
+
+<p>View this project on <a href="https://github.com/SacredData/baptism">GitHub</a>.</p>
+
+<h2 id="installation">Installation</h2>
+
+<div class="language-sh highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nv">$ </span>npm <span class="nb">install </span>baptism
+</code></pre></div></div>
+
+<h2 id="technologies-used">Technologies Used</h2>
+
+<ul>
+  <li>node 14.4.0</li>
+  <li>ffmpeg</li>
+  <li>sox</li>
+</ul>
+:ET
