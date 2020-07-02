@@ -1,10 +1,10 @@
-I"ù<blockquote>
+I"Ÿ<blockquote>
   <p>Baptism is the first stage in the SACRED AUDIO automated workflow. It
 objectifies WAV files and provides interfaces to ffmpeg and sox to produce
 industry-compliant analyses of the audio data.</p>
 </blockquote>
 
-<p>View this project on <a href="https://github.com/SacredData/baptism">GitHub</a>.</p>
+<p>View this project on <a href="https://github.com/SacredData/baptism">GitHub</a> and <a href="https://www.npmjs.com/package/baptism">npm</a>.</p>
 
 <h2 id="installation">Installation</h2>
 
