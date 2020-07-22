@@ -70,6 +70,18 @@ YouTube knows this, too. Given the most expensive part of serving a transcoded v
 
 If nobody is watching this content, then it really isn't costing YouTube very much money. That said, the remaining 99.999% of YouTube's content that got deleted in 2018 was indeed, **a colossal fucking problem!** Without such a *righteous* proclamation as "anti-racism," YouTube's executives would have a lot of explaining to do to Alphabet's investors and executives.
 
+### The Inconvenient Truth About Alex Jones
+
+Sometimes, YouTube had to deal with the inverse of the problems detailed above. Sometimes, a user was too popular for YouTube to do anything useful with.
+
+Alex Jones was a nightmare of a problem for YouTube. In the early days, InfoWars was one of the leading YouTube accounts, whose subscription numbers and view counts topped the charts. He was an outstanding person to have around while YouTube, still a pre-acquisition tech startup from San Francisco, was seeking to build an international audience.
+
+Building on the mania of the 2008 election year, Jones, like many other YouTube content creators, found that YouTube enabled him to grow his audience for free, while still maintaining his own independent broadcasting and media production infrastructure. We all know now that Alex Jones was taken down from nearly all social media and online content services on the same day, showing not just a coordinated effort by many different kinds of content firms but a more revealing series of facts about the danger Alex Jones poses to mainstream media.
+
+The danger YouTube was so eager to prevent was the incredible growth InfoWars saw during the 2016 election year. With each InfoWars upload reaching several million viewers within the first couple hours of going live on YouTube, executives agonized over how they were totally unable to monetize this gargantuan, massive audience because no advertisers would be caught dead next to such "outrageous" content. But the costs of ingesting, transcoding, and delivering this content to all these viewers across the globe were very real, and on internal YouTube employee dashboards, it is likely that Alex Jones was at the very top of the "cost of hosting / advertising revenues earned" filtered list for many months.
+
+If YouTube's goal by getting rid of Alex Jones was to decrease his effectiveness and his "ability" to influence the US elections, they have failed miserably. Despite the high negative opinion rates and his extremely bombastic approach, Alex Jones is the [67th most-listened podcast on the planet - and the 14th most famous](https://today.yougov.com/topics/media/explore/radio_program/The_Alex_Jones_Show).
+
 ## Not Just A Fluke
 
 Before suggesting that YouTube's behavior here is reprehensible *and* not representative of the broader media and technology industries, do consider the following:
