@@ -72,6 +72,8 @@ If nobody is watching this content, then it really isn't costing YouTube very mu
 
 ### The Inconvenient Truth About Alex Jones
 
+![](/aj.jpg)
+
 Sometimes, YouTube had to deal with the inverse of the problems detailed above. Sometimes, a user was too popular for YouTube to do anything useful with.
 
 Alex Jones was a nightmare of a problem for YouTube. In the early days, InfoWars was one of the leading YouTube accounts, whose subscription numbers and view counts topped the charts. He was an outstanding person to have around while YouTube, still a pre-acquisition tech startup from San Francisco, was seeking to build an international audience.
@@ -84,13 +86,21 @@ If YouTube's goal by getting rid of Alex Jones was to decrease his effectiveness
 
 ## Not Just A Fluke
 
+Historically, media companies have been willing to stomach and explain away the horrible behavior of their talent for decades. What informs their behavior now is not any sort of change in attitude or evolution in the corporate ideology. It's just dollars and cents - like it always has been.
+
 Before suggesting that YouTube's behavior here is reprehensible *and* not representative of the broader media and technology industries, do consider the following:
 
 ### Facial Recogntion Technology
 
+![](/ob.jpg)
+
 "Facial recognition" programs have been discontinued all throughout the US recently, once again with racism being cited as the main cause. When it was discovered that the face masks we use to protect ourselves from COVID-19 are an effective way to circumvent facial recognition technology, uppity US cities everywhere that got in on the action early had some explaining to do. How could such an expensive program be so useless? Whose fault is it that such expenses were undertaken without a more thoughtful and complete research endeavor?
 
-So many individual issues stemming from the use of this technology could bring down elected officials in these states. But luckily for these people, they lived in states where the electorate bought, hook-line-and-sinker, the claim that these technologies had to go because of "racism" discovered in the machine learning systems themselves.
+So many individual issues stemming from the use of this technology could bring down elected officials in these states. But luckily for these officials, they lived in states where the electorate bought, hook-line-and-sinker, the claim that these technologies had to go because of "racism" discovered in the machine learning systems themselves. This is, of course, an absurd conclusion to draw, and in doing so, anti-racists are throwing away the baby with the bathwater.
+
+The notion that a piece of software could be designed to be *racist* in its decision-making criteria gives machine learning researchers far too much credit. Such *human* characteristics could not possibly be modeled and implemented into today's state of the art machine learning methodologies. The whole dang point of artificial intelligence is to bring computing power closer to human thought patterns, and the astute *anti-racist* might do well to consider how useful to their own ambitions a "racist" computer could be. By pure definition, a racist computer would most certainly be a marvel of modern day science, should it ever be invented, and would give us incredibly useful insights into the way tolerance and discrimination work in the human brain. That sounds like a great tool to have in the woke warchest - no?
+
+We are due for some challenging times ahead if the connected population continues to approach these kinds of complex issues with such a lack of rigor. Twitter has done significant damage to the innate human ability to see further ahead than the present moment, and it is actually quite a shame that very unknowledgeable folks are declaring war upon machine learning without seeing the bigger picture.
 
 ### Television
 
@@ -103,5 +113,3 @@ Worse yet, it was revealed that ABC's contract with Roseanne had explicit provis
 ABC and YouTube share a huge commonality in their positions as major broadcasters of video content. Though their broadcast mediums differ, their business strategy is one in the same, tied almost exclusively to advertising. (This is further reinforced by the fact that YouTube's CEO, Susan Wojcicki, [was Google's first-ever marketing manager](https://en.wikipedia.org/wiki/Susan_Wojcicki).) It would seem that in 2018, both firms took very harsh and deliberate actions against their own content libraries in a sort of pre-emptive strike to ensure their advertising partners that they were going to be willing to play ball, no matter what the future would bring. Wojcicki and Eisner are smart, tough cookies, and it's little surprise that the new media landscape's advertising future is very much in the hands of YouTube, and ABC's parent company, Disney.
 
 There were a lot of stars on ABC's reboot of "Roseanne." In addition to the $250,000 per episode Roseanne, the show also paid the same rate out to John Goodman, her co-star, and the very expensive co-star of the CBS show, *The Big Bang Theory*, also received a large, undisclosed sum for each episode. With 25 episodes slated before the eventual cancellation, ABC was on the hook for many, many millions of dollars over the next two years. Upon cancellation, ABC did not throw away the estimated $45-$60 million in ad revenues made by the show in 2018, but rather, acted to ensure they did not lose money the following year, when advertisers would be much less willing to advertise on the program.
-
-Historically, media companies have been willing to stomach and explain away the horrible behavior of their talent for decades. What informs their behavior now is not any sort of change in attitude or evolution in the corporate ideology. It's just dollars and cents - like it always has been.
