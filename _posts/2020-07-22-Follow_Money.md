@@ -76,7 +76,7 @@ Before suggesting that YouTube's behavior here is reprehensible *and* not repres
 
 ### Facial Recogntion Technology
 
-"Facial recognition" programs have been discontinued all throughout the US recently, once again with racism being cited as the main cause. When it was discovered that the face masks we use to protect ourselves from COVID-19 are an effective way to circumvent facial recognition technology, uppity US cities everywhere that got in on the action early had some explaining to do. How could such an expensive program be so useless? Whose fault is it that such expenses were undertaken without a more thoughtful and complete research endeavor? How dare our elected officials sacrifice the effectiveness of our public safety for a trend that we have not yet proven is actually effective as a means for protection against COVID-19?
+"Facial recognition" programs have been discontinued all throughout the US recently, once again with racism being cited as the main cause. When it was discovered that the face masks we use to protect ourselves from COVID-19 are an effective way to circumvent facial recognition technology, uppity US cities everywhere that got in on the action early had some explaining to do. How could such an expensive program be so useless? Whose fault is it that such expenses were undertaken without a more thoughtful and complete research endeavor?
 
 So many individual issues stemming from the use of this technology could bring down elected officials in these states. But luckily for these people, they lived in states where the electorate bought, hook-line-and-sinker, the claim that these technologies had to go because of "racism" discovered in the machine learning systems themselves.
 
