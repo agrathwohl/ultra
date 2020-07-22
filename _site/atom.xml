@@ -4,7 +4,7 @@
  <title>Andrew Grathwohl</title>
  <link href="https://grathwohl.me/atom.xml" rel="self"/>
  <link href="https://grathwohl.me/"/>
- <updated>2020-07-22T13:13:44-04:00</updated>
+ <updated>2020-07-22T14:31:43-04:00</updated>
  <id>https://grathwohl.me</id>
  <author>
    <name></name>
@@ -70,7 +70,7 @@
 
 &lt;h4 id=&quot;da-financials&quot;&gt;Da Financials&lt;/h4&gt;
 
-&lt;p&gt;There was clearly a need for YouTube to figure out something with regards to its cost of goods sold. Going by YouTube’s own claims, they send more than 440,000 TB of video data to users every day, which on AWS S3 would rack up a 9.1 million dollar bill each month. This does not consider the costs for uploading, ingestion, or storage of the content, nor does it consider the costs for storing the dozens of transcoded proxies, HLS streams, MPEG-DASH manifests, and other multimedia assets that, when combined, form the YouTube multimedia UX.&lt;/p&gt;
+&lt;p&gt;There was clearly a need for YouTube to figure out something with regards to its cost of goods sold. Going by YouTube’s own claims, they send &lt;a href=&quot;https://www.whistleout.com.au/MobilePhones/Guides/How-Much-Data-Does-YouTube-Use&quot;&gt;more than 440,000 TB of video data&lt;/a&gt; to users every day, which on AWS S3 would rack up a 9.1 million dollar monthly bill. This does not consider the costs for uploading, ingestion, or storage of the content, nor does it consider the costs for storing the dozens of transcoded proxies, HLS streams, MPEG-DASH manifests, and other multimedia assets that, when combined, form the YouTube multimedia UX.&lt;/p&gt;
 
 &lt;p&gt;When &lt;em&gt;those&lt;/em&gt; costs are added into the mix, we are left with a bill just short of $10 million per month - simply to store and send files to users. But, that’s a rounding error compared with the compute costs to transcode all of that video content. When &lt;em&gt;those&lt;/em&gt; costs are considered, we must add an additional $6 million per day just to transcode each uploaded video to all resolutions, frame rates, and content formatting requirements. That adds up to a transcoding footprint of (brace yourself): &lt;strong&gt;$195 million dollars per month&lt;/strong&gt;!&lt;/p&gt;
 
@@ -80,7 +80,7 @@
 
 &lt;p&gt;Scapegoating is precisely what YouTube has done here, by removing 50.2 million videos in the name of racism when racist content comprised a puny 0.01% of all content deleted in 2018. What Google really is trying to do here is come up with a reason for doing all this cost-cutting and renegging, while not negatively implicating the top brass at YouTube, whose thoughtless and unrealistic approach to the video streaming industry brought them to the point of no return.&lt;/p&gt;
 
-&lt;p&gt;The entirety of all racist/abusive content uploaded to YouTube is so miniscule that it can fit within the AWS S3 free tier storage program, meaning that any firm uploading this amount of data per month can currently do so &lt;em&gt;for free&lt;/em&gt; without any of the other extremely expensive proprietary approaches Google pays its emplyoees to devise for cost savings purposes. In other words, &lt;strong&gt;from a cost point of view, racist content on YouTube is a non issue.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The entirety of all racist/abusive content uploaded to YouTube is so miniscule that it can fit within the AWS S3 free tier storage program, meaning that any firm uploading this amount of data per month can currently do so &lt;em&gt;for free&lt;/em&gt; without any of the other extremely expensive proprietary approaches Google pays its emplyoees to devise for cost savings purposes. In other words, &lt;strong&gt;from a cost point of view, racist content on YouTube is a non issue.&lt;/strong&gt; And given the statistically insignificant volume of racist video as compared to the YouTube library overall, it’s also quite unlikely an advertisement would ever be served to this extremely niche realm of video content.&lt;/p&gt;
 
 &lt;p&gt;YouTube knows this, too. Given the most expensive part of serving a transcoded video to a viewer is in its content delivery costs, it makes little sense to be so worked up over content that barely ever gets streamed to anybody in the first place:&lt;/p&gt;
 
@@ -99,6 +99,20 @@
 &lt;p&gt;“Facial recognition” programs have been discontinued all throughout the US recently, once again with racism being cited as the main cause. When it was discovered that the face masks we use to protect ourselves from COVID-19 are an effective way to circumvent facial recognition technology, uppity US cities everywhere that got in on the action early had some explaining to do. How could such an expensive program be so useless? Whose fault is it that such expenses were undertaken without a more thoughtful and complete research endeavor? How dare our elected officials sacrifice the effectiveness of our public safety for a trend that we have not yet proven is actually effective as a means for protection against COVID-19?&lt;/p&gt;
 
 &lt;p&gt;So many individual issues stemming from the use of this technology could bring down elected officials in these states. But luckily for these people, they lived in states where the electorate bought, hook-line-and-sinker, the claim that these technologies had to go because of “racism” discovered in the machine learning systems themselves.&lt;/p&gt;
+
+&lt;h3 id=&quot;television&quot;&gt;Television&lt;/h3&gt;
+
+&lt;p&gt;The removal of several extremely high-value television personalities from their prominent positions throughout the television industry is another very opportunistic invocation of anti-racism. When the list of firings only included men such as Bill Cosby, Matt Lauer, Louis CK, and Charlie Rose, it was a much harder phenomenon to spot - largely due to the fact that these things were occurring in real time. But now, it is almost undeniable that however true the accusations against these men are (and I tend to believe all these stories are probably true) it was likely their expensive contracts, not their relationships with women, that drove executives’ decisions to invoke the escape clauses.&lt;/p&gt;
+
+&lt;p&gt;Television executives could have gotten away with doing all this unscathed, if they hadn’t accidentally taken things too far with the expulsion of Roseanne Barr from ABC in the middle of the revival of her show &lt;em&gt;Roseanne&lt;/em&gt;. Granted, her comments about Valerie Jaret were quite vulgar, tasteless, and lacked class - and yes, maybe they were even racist - but I struggle to think of another time when such a massive figure with such an important television series was so unable to escape scrutiny.&lt;/p&gt;
+
+&lt;p&gt;Worse yet, it was revealed that ABC’s contract with Roseanne had explicit provisions against &lt;a href=&quot;https://theblast.com/roseanne-contracts-provisions-reckless-conduct-offending-community/&quot;&gt;‘reckless conduct’ and community offenses&lt;/a&gt;, indicating that executives planned well in advance for a way to pull the plug on the show, knowing the opportunity may end up presenting itself. It is rather curious that the tenth season of her show was broadcast at the same timeframe YouTube was reporting its massive deletion of “racist” video content.&lt;/p&gt;
+
+&lt;p&gt;ABC and YouTube share a huge commonality in their positions as major broadcasters of video content. Though their broadcast mediums differ, their business strategy is one in the same, tied almost exclusively to advertising. (This is further reinforced by the fact that YouTube’s CEO, Susan Wojcicki, &lt;a href=&quot;https://en.wikipedia.org/wiki/Susan_Wojcicki&quot;&gt;was Google’s first-ever marketing manager&lt;/a&gt;.) It would seem that in 2018, both firms took very harsh and deliberate actions against their own content libraries in a sort of pre-emptive strike to ensure their advertising partners that they were going to be willing to play ball, no matter what the future would bring. Wojcicki and Eisner are smart, tough cookies, and it’s little surprise that the new media landscape’s advertising future is very much in the hands of YouTube, and ABC’s parent company, Disney.&lt;/p&gt;
+
+&lt;p&gt;There were a lot of stars on ABC’s reboot of “Roseanne.” In addition to the $250,000 per episode Roseanne, the show also paid the same rate out to John Goodman, her co-star, and the very expensive co-star of the CBS show, &lt;em&gt;The Big Bang Theory&lt;/em&gt;, also received a large, undisclosed sum for each episode. With 25 episodes slated before the eventual cancellation, ABC was on the hook for many, many millions of dollars over the next two years. Upon cancellation, ABC did not throw away the estimated $45-$60 million in ad revenues made by the show in 2018, but rather, acted to ensure they did not lose money the following year, when advertisers would be much less willing to advertise on the program.&lt;/p&gt;
+
+&lt;p&gt;Once again - media companies have been willing to stomach and explain away the horrible behavior of their talent for decades. What informs their behavior now is not any sort of change in attitude or evolution in the corporate ideology. It’s just dollars and cents - like it always is.&lt;/p&gt;
 </content>
  </entry>
  
