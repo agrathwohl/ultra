@@ -1,4 +1,4 @@
-I"�<blockquote>
+I"<blockquote>
   <p>COMPUTER is a Python 2 program that enables users to control their modern Linux workstations with easy voice commands. Using the Julius continuous speech recognition decoder, users may effortlessly extend the COMPUTER command vocabulary, customize outcomes, and even integrate new applications.</p>
 </blockquote>
 
@@ -8,7 +8,7 @@
 
 <p>This Linux desktop application allows you to address your computer just like Picard does in Star Trek - by yelling, “COMPUTER!”</p>
 
-<p>Since first releasing in 2016, <code class="language-plaintext highlighter-rouge">COMPUTER</code> has been in daily use on my home office workstation and has become an indispensable tool for me.</p>
+<p>Since first releasing in 2016, <code class="highlighter-rouge">COMPUTER</code> has been in daily use on my home office workstation and has become an indispensable tool for me.</p>
 
 <h2 id="technologies-used">Technologies Used</h2>
 
