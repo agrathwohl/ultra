@@ -84,7 +84,7 @@ The danger YouTube was so eager to prevent was the incredible growth InfoWars sa
 
 If YouTube's goal by getting rid of Alex Jones was to decrease his effectiveness and his "ability" to influence the US elections, they have failed miserably. Despite the high negative opinion rates and his extremely bombastic approach, Alex Jones is the [67th most-listened podcast on the planet - and the 14th most famous](https://today.yougov.com/topics/media/explore/radio_program/The_Alex_Jones_Show).
 
-## Not Just A Fluke
+## Addendum: Not Just A Fluke
 
 Historically, media companies have been willing to stomach and explain away the horrible behavior of their talent for decades. What informs their behavior now is not any sort of change in attitude or evolution in the corporate ideology. It's just dollars and cents - like it always has been.
 
