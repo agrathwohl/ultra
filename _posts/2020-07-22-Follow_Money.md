@@ -82,7 +82,9 @@ Building on the mania of the 2008 election year, Jones, like many other YouTube 
 
 The danger YouTube was so eager to prevent was the incredible growth InfoWars saw during the 2016 election year. With each InfoWars upload reaching several million viewers within the first couple hours of going live on YouTube, executives agonized over how they were totally unable to monetize this gargantuan, massive audience because no advertisers would be caught dead next to such "outrageous" content. But the costs of ingesting, transcoding, and delivering this content to all these viewers across the globe were very real, and on internal YouTube employee dashboards, it is likely that Alex Jones was at the very top of the "cost of hosting / advertising revenues earned" filtered list for many months.
 
-If YouTube's goal by getting rid of Alex Jones was to decrease his effectiveness and his "ability" to influence the US elections, they have failed miserably. Despite the high negative opinion rates and his extremely bombastic approach, Alex Jones is the [67th most-listened podcast on the planet - and the 14th most famous](https://today.yougov.com/topics/media/explore/radio_program/The_Alex_Jones_Show).
+If YouTube's goal by getting rid of Alex Jones was to decrease his effectiveness and his "ability" to influence the US elections, they have failed miserably. Despite the high negative opinion rates and his extremely bombastic approach, Alex Jones is the [67th most-listened podcast on the planet - and the 14th most famous](https://today.yougov.com/topics/media/explore/radio_program/The_Alex_Jones_Show). The programs directly above and below him on the YouGov fame charts are cut from a slightly different cloth. It must terrify many rational people to consider what Jones would do with the resources of a well-established machine like TED or Reuters.
+
+![](/ajrating.png)
 
 ## Addendum: Not Just A Fluke
 
