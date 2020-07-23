@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Anti-Racism Is A Corporate Cost-Cutting Program"
+title:  "A Corporate Cost-Cutting Program"
 date:   2020-07-21 10:39:50
 categories: politics
 ---
