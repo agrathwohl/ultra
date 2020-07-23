@@ -28,7 +28,7 @@ Personally, I am not a thought leader in libertarianism, but as a thought leader
 
 ### YouTube Weaponized Video Until It Was No Longer Convenient
 
-This year, I can finally conclude that I wasn't wrong; YouTube's revenues and profits were reported this year for the first time, and not to my surprise - they reported [their $15 billion in revenues](https://www.theverge.com/2020/2/3/21121207/youtube-google-alphabet-earnings-revenue-first-time-reveal-q4-2019) but failed to provide any information on their actual P/L. So they're probably still not making any money. Regardless, I cannot help but wonder what kind of losses YouTube were taking before they systematically [deleted 50 million videos and 1.2 million channels from their service](https://www.cnbc.com/2018/12/13/youtube-removed-nearly-2-million-channels-more-than-7-million-videos.html) back in 2018?
+This year, I can finally conclude that I wasn't wrong; YouTube reported some of their financials for the first time, and not to my surprise - they reported [their $15 billion in revenues](https://www.theverge.com/2020/2/3/21121207/youtube-google-alphabet-earnings-revenue-first-time-reveal-q4-2019) but failed to provide any information on their actual P/L. So they're probably still not making any money. Regardless, I cannot help but wonder what kind of losses YouTube were taking before they systematically [deleted 50 million videos and 1.2 million channels from their service](https://www.cnbc.com/2018/12/13/youtube-removed-nearly-2-million-channels-more-than-7-million-videos.html) back in 2018?
 
 To answer this question, we should look first at why YouTube made this decision, while still maintaining that their goal was to exist as the internet's destination for free video content:
 
