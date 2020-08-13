@@ -1,6 +1,6 @@
-I"�<p>The team behind FFmpeg unveiled a major new release, “Einstein,” recently, and in the release notes appears a strongly-worded suggestion:</p>
+I"�<p>The team behind FFmpeg unveiled a major new release, “Einstein,” recently, and in the release notes appears a strongly-worded suggestion:</p>
 
-<p><code class="highlighter-rouge">We strongly recommend users, distributors, and system integrators to upgrade unless they use current git master.</code></p>
+<p><code class="language-plaintext highlighter-rouge">We strongly recommend users, distributors, and system integrators to upgrade unless they use current git master.</code></p>
 
 <p>(By the way, if you’re thinking that today may be the day to look into FFmpeg’s git master – don’t. Seriously, just don’t. This is no slight against the FFmpeg team - it’s just that with a project of this nature, you have to build the nightly release every day to get helpful suppo
 rt. Developers are committing small patches to individual subsets of the FFmpeg project every day, which is why the release candidates are a sure bet for most folks.)</p>

@@ -1,4 +1,4 @@
-I"�<p>The FOSS ecosystem’s many benefits present only a few minor annoyances for sysadmins - the most significant of which is the need for research, as well as trial-and-error, when investigating new software to employ in your stack.</p>
+I"?<p>The FOSS ecosystem’s many benefits present only a few minor annoyances for sysadmins - the most significant of which is the need for research, as well as trial-and-error, when investigating new software to employ in your stack.</p>
 
 <p>If you are in need of suggestions for FOSS media software, this article is for you.</p>
 
@@ -11,7 +11,7 @@
 
 <h4 id="sox-lgpl">SoX (LGPL)</h4>
 
-<p><a href="http://sox.sourceforge.net/">SoX</a> - or, Sound eXchange - is an LGPL application for processing sound. It supports every free (and some non-free) audio codecs, and employs by far the best resampler out there today, <code class="highlighter-rouge">libsoxr</code>. Below, we see SoX totally annhilating expensive, proprietary “professional” audio software, Ableton Live, in a sampling rate conversion test.</p>
+<p><a href="http://sox.sourceforge.net/">SoX</a> - or, Sound eXchange - is an LGPL application for processing sound. It supports every free (and some non-free) audio codecs, and employs by far the best resampler out there today, <code class="language-plaintext highlighter-rouge">libsoxr</code>. Below, we see SoX totally annhilating expensive, proprietary “professional” audio software, Ableton Live, in a sampling rate conversion test.</p>
 
 <p><img src="/sox-src.jpg" alt="" /></p>
 
@@ -21,11 +21,11 @@
 
 <p>If you want to stay sane working with media in the FOSS realm, you’ll need to be using <a href="https://www.matroska.org/">Matroska</a>. A fully open and highly extensible container format, it is just about as free as free software gets.</p>
 
-<p>At a minimum, make sure you have <a href="https://mkvtoolnix.download/"><code class="highlighter-rouge">mkvtoolnix</code></a> laying around for easy and flexible muxing, demuxing, and metadata tasks.</p>
+<p>At a minimum, make sure you have <a href="https://mkvtoolnix.download/"><code class="language-plaintext highlighter-rouge">mkvtoolnix</code></a> laying around for easy and flexible muxing, demuxing, and metadata tasks.</p>
 
 <h3 id="images">Images</h3>
 
-<p>For many years, the undisputed FOSS image processing king was <code class="highlighter-rouge">ImageMagick</code>, however over the years the project has failed to address meaningful inefficiencies and bugs within the software. This spawned the <code class="highlighter-rouge">GraphicsMagick</code> fork, which I would recommend to most users. Only those who need its deep colors features should consider sticking with the old and tired ImageMagick.</p>
+<p>For many years, the undisputed FOSS image processing king was <code class="language-plaintext highlighter-rouge">ImageMagick</code>, however over the years the project has failed to address meaningful inefficiencies and bugs within the software. This spawned the <code class="language-plaintext highlighter-rouge">GraphicsMagick</code> fork, which I would recommend to most users. Only those who need its deep colors features should consider sticking with the old and tired ImageMagick.</p>
 
 <h4 id="graphicsmagick-mit">GraphicsMagick (MIT)</h4>
 
@@ -37,9 +37,9 @@
 
 <p><img src="/mpv.jpg" alt="" /></p>
 
-<p>The VideoLan folks have always done a fantastic job with the VLC player, however if you are serious about working with media you’ll want to move on over to the new king of FOSS media playback, <code class="highlighter-rouge">mpv</code>. Those 10-bit color anime folks love it, so you know it must be good.</p>
+<p>The VideoLan folks have always done a fantastic job with the VLC player, however if you are serious about working with media you’ll want to move on over to the new king of FOSS media playback, <code class="language-plaintext highlighter-rouge">mpv</code>. Those 10-bit color anime folks love it, so you know it must be good.</p>
 
-<p><code class="highlighter-rouge">mpv</code> has a world-class plugin system that enables users to contribute scripts and plugins in either Lua and NodeJS. This is very useful for media analysis and for media processing automation.</p>
+<p><code class="language-plaintext highlighter-rouge">mpv</code> has a world-class plugin system that enables users to contribute scripts and plugins in either Lua and NodeJS. This is very useful for media analysis and for media processing automation.</p>
 
 <h3 id="video">Video</h3>
 
