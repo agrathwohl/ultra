@@ -1,8 +1,8 @@
-I"Ê<blockquote>
+I"·<blockquote>
   <p>A command line tool to encode your 180, 360, and fixed-frame videos for sideloading with Littlstarâ€™s VR Cinema apps.</p>
 </blockquote>
 
-<p>Users of Littlstarâ€™s VR Cinema apps for PS4, Oculus, and Windows MR platforms can use <code class="language-plaintext highlighter-rouge">ls-psvr-encoder</code> to ensure their video content is best prepared for VR playback environments.</p>
+<p>Users of Littlstarâ€™s VR Cinema apps for PS4, Oculus, and Windows MR platforms can use <code class="highlighter-rouge">ls-psvr-encoder</code> to ensure their video content is best prepared for VR playback environments.</p>
 
 <p>View this project on <a href="https://github.com/littlstar/ls-psvr-encoder">GitHub</a>.</p>
 
