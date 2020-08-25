@@ -1,0 +1,41 @@
+I"�<blockquote>
+  <p><a href="https://multipli.city">Multipli.city</a> is my effort to unify, archive, and 
+distribute the music releases resulting from my music project, Sonic Multiplicities.</p>
+</blockquote>
+
+<p>Multipli.city is a substantial, and ever-growing jekyll project,
+which houses the activities of my music project, Sonic Multiplicities.</p>
+
+<p>It’s built off a fork of an outstanding jekyll theme made by 
+<a href="https://github.com/akiritsu/pRoJEct-NeGY">akiritsu</a>.</p>
+
+<p>It was designed to serve as the single source of truth for my music, and to 
+automate the processes involved with releasing, distributing, and archiving my
+music releases. As a proponent of peer-to-peer distribution technologies and
+decentralized media distribution platforms, I wanted to entirely remove my
+reliance upon comercial and third-party music/audio services.</p>
+
+<p>After all, my music is not pursued for notoriety, nor for profit. I am in this
+for the very long haul, placing different sorts of emphases on how I administer
+my catalog. I made the decision long ago to always make my music available for
+free, and as flexibly as possible. Though I am not averse to utilizing services
+like Bandcamp and SoundCloud, not to mention Apple Music or Spotify, I do want
+to get to a place where their use is supplemental - not crucial - to the musician’s
+activities.</p>
+
+<p>View this project on <a href="https://github.com/SacredData/pRoJEct-NeGYa">GitHub</a>.</p>
+
+<h2 id="technologies-used">Technologies Used</h2>
+
+<ul>
+  <li>jekyll</li>
+  <li>javascript</li>
+  <li>ffmpeg</li>
+  <li>sox</li>
+  <li>wavesurfer-js</li>
+  <li>vibrantjs</li>
+  <li>opus</li>
+  <li>flac</li>
+  <li>RSS</li>
+</ul>
+:ET
