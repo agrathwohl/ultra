@@ -4,7 +4,7 @@
  <title>Andrew Grathwohl</title>
  <link href="https://grathwohl.me/atom.xml" rel="self"/>
  <link href="https://grathwohl.me/"/>
- <updated>2020-08-25T00:34:47-04:00</updated>
+ <updated>2020-09-11T15:46:53-04:00</updated>
  <id>https://grathwohl.me</id>
  <author>
    <name></name>
@@ -520,7 +520,7 @@ systemctl enable cpupower &amp;amp;&amp;amp; systemctl start cpupower
  </entry>
  
  <entry>
-   <title>Partitipaction: Digital Media's Missing Ingredient</title>
+   <title>Participation: Digital Media's Missing Ingredient</title>
    <link href="https://grathwohl.me/2018/11/15/participation-digital-media"/>
    <updated>2018-11-15T05:44:00-05:00</updated>
    <id>https://grathwohl.me/2018/11/15/Participation_Digital_Media</id>
