@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Partitipaction: Digital Media's Missing Ingredient"
+title:  "Participation: Digital Media's Missing Ingredient"
 date:   2018-11-15 10:44:00
 
 categories: media decentralization
