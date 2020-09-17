@@ -21,6 +21,8 @@ I am a composer, multi-instrumentalist, and computer musician, and have been act
 
 #### [Sonic Multiplicities](https://multipli.city)
 
+#### [CPU/GOD](https://cpugod.bandcamp.com/)
+
 #### [Broken Hearts on Ice](https://brokenheartsonice.bandcamp.com/)
 
 ### More
