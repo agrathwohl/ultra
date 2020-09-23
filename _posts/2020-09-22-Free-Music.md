@@ -26,6 +26,10 @@ We don't know what was going through the minds of the [Baka Pygmies](http://www.
 
 The certainty behind that statement comes not from any assumptions made about the existence of commercialism in the Baka culture, but rather from the nature of the musical performances themselves. For the Baka - and other sub-Saharan foragers - music was a frequent and important part of everyday life, due to its use as a ritualistic tool. Because musical performance is regular and ritualistic in Baka culture, the first musical traditions were solidified, yet within this tradition is a wealth of freedom to engage in individual expression. It has the essence of the blues, classical music, and even jazz all rolled into one incredible lineage.
 
+Give the music of the Baka people a listen - from one music-lover to another, you deserve to know about this special, beautiful, mysterious musical lineage.
+
+<iframe width="640" height="640" src="https://www.youtube-nocookie.com/embed/videoseries?list=OLAK5uy_mgR_Jwj_z3xPYnmcNSY6H5wqFPcL-wTgU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"></iframe>
+
 The first reed instruments, the first improvisations, and the first polyphony all appear to have occurred at the beginning of the Baka's formation, many thousands of years ago. And yet nobody sought to individually profit within this framework - the Baka appear to have been knowledgeable about music's immense powers to a degree that Western culture has all but forgotten.
 
 You cannot put music back in the bag once it has been uncovered. Its ability to generate second- and third-order value is so well-understood that many cultures throughout the globe continue to see music as a holy presence. And though we were able to forgo giving this claim serious throught for many decades, music's descent from profits to pain has once again forced the West to consider it.
