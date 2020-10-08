@@ -1,6 +1,6 @@
 ---
 layout: project
-title: Multipli.city
+title: jekyll-hypermusic
 description: Homepage for my Sonic Multiplicities deep-learning music project.
 summary: Homepage for my Sonic Multiplicities deep-learning music project.
 category: jekyll
@@ -28,7 +28,7 @@ like Bandcamp and SoundCloud, not to mention Apple Music or Spotify, I do want
 to get to a place where their use is supplemental - not crucial - to the musician's
 activities.
 
-View this project on [GitHub](https://github.com/SacredData/pRoJEct-NeGYa).
+View this project on [GitHub](https://github.com/SacredData/jekyll-hypermusic).
 
 ## Technologies Used
 
