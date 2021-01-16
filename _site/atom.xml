@@ -4,13 +4,69 @@
  <title>Andrew Grathwohl</title>
  <link href="https://grathwohl.me/atom.xml" rel="self"/>
  <link href="https://grathwohl.me/"/>
- <updated>2020-11-08T14:16:29-05:00</updated>
+ <updated>2021-01-16T15:23:44-05:00</updated>
  <id>https://grathwohl.me</id>
  <author>
    <name></name>
    <email></email>
  </author>
 
+ 
+ <entry>
+   <title>Feedback</title>
+   <link href="https://grathwohl.me/2021/01/16/feedback"/>
+   <updated>2021-01-16T00:00:00-05:00</updated>
+   <id>https://grathwohl.me/2021/01/16/FEEDBACK</id>
+   <content type="html">&lt;p&gt;I’ve learned a lot recently about feedback. As an audio engineer, it’s something I know a lot about in practice.&lt;/p&gt;
+
+&lt;p&gt;But I’d done so little thinking about it as a means for understanding systems. I was too busy toiling in the field of electronics, to realize that feedback
+takes place in nature all around us, and is key to understanding knowledge
+itself.&lt;/p&gt;
+
+&lt;h3 id=&quot;feedback-is-a-simple-concept-with-overwhelming-enormous-implications&quot;&gt;Feedback is a simple concept with overwhelming, enormous implications.&lt;/h3&gt;
+
+&lt;p&gt;It can be described as a phenomenon that takes place inside of systems,
+where some amount of its output is fed back into its own inputs.&lt;/p&gt;
+
+&lt;h3 id=&quot;when-systems-are-tidy-small-and-orderly-their-feedback-is-easy-to-measure-predict-and-reason-with&quot;&gt;When systems are tidy, small, and orderly, their feedback is easy to measure, predict, and reason with.&lt;/h3&gt;
+
+&lt;p&gt;This is because systems that exhibit feedback have to be examined at the broadest-possible scope
+to be effectively analyzed. It is difficult to understand a feedback system causally, since feedback systems by definition have dynamic inputs and outputs, whose states are in
+constant flux.&lt;/p&gt;
+
+&lt;p&gt;A good example of this phenomenon is a city’s water purification system. As water is dispensed from a faucet, it is expected to meet some standard of cleanliness. Most of
+it may end up in a container of some kind to use in cooking, consuming, or cleaning. But once the water comes out of the faucet, if it hits the bottom of the sink and goes
+down the drain, the water has just changed its state from “clean,” to “dirty.”&lt;/p&gt;
+
+&lt;p&gt;Now, it must travel through a series of other tubes that will make it even dirtier. By the time it has ended up back at the purification plant, its need to be purified is a
+forgone conclusion. But how MUCH purification is necessary?&lt;/p&gt;
+
+&lt;p&gt;Well, most water purification systems have been designed so that no matter what, the same amount of purification is needed.&lt;/p&gt;
+
+&lt;p&gt;This works well for a feedback system that serves the public’s need for clean, potable drinking water.&lt;/p&gt;
+
+&lt;p&gt;But imagine when this kind of mentality is applied to feedback systems, which manage the safety of individual human beings.&lt;/p&gt;
+
+&lt;h3 id=&quot;lets-look-at-the-prison-system-in-the-us-as-a-rather-extreme-example&quot;&gt;Let’s look at the prison system in the US as a rather extreme example.&lt;/h3&gt;
+
+&lt;p&gt;When people are born and enter into our society, it is our hope that each individual will take advantage of their rights to life, liberty, and property to pursue their own
+happiness. We have refined our processes over the years to make it as abundantly clear as possible, that these rights are available to each and every citizen of our country.&lt;/p&gt;
+
+&lt;p&gt;So, once we are born, we and our rights flow from the system like the water that flows from the faucet. We all are going in the same
+general direction as one another, and we generally have to follow a shared system of rules as we make our way through the streams of other people, not unlike the way the
+water that comes from a faucet is subject to the rules of gravity and friction.&lt;/p&gt;
+
+&lt;p&gt;The hope is that in such a system, most people will end up landing in their “containers,” i.e., a job, perhaps even a spouse and family.&lt;/p&gt;
+
+&lt;p&gt;Except for, of course, those who have been convicted of a crime or civil offense. They don’t make it inside any container, and instead fall through to the bottom of the sink,
+at which point their “state” immediately changes from “clean,” to “dirty.”&lt;/p&gt;
+
+&lt;p&gt;Once “dirty,” a charged criminal enters a bewildering series of tubes, whose rules are only capably understood by an entirely different system - the world of US legal counsel - but one thing is for certain: By the time they’ve entered their purification plant, they’ve been dirtied, soiled, and tarnished enough to make their need for purification a
+    forgone conclusion.&lt;/p&gt;
+
+&lt;h3 id=&quot;when-we-put-people-into-a-system-of-profound-complexity-they-are-forced-to-adopt-those-complexities&quot;&gt;When we put people into a system of profound complexity, they are forced to adopt those complexities.&lt;/h3&gt;
+</content>
+ </entry>
  
  <entry>
    <title>I Have Joined Storyboard.fm</title>
