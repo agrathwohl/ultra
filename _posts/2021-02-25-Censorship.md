@@ -261,9 +261,10 @@ provided it to people for free, without following the corporate music industry's
 dogmatic approach to the age-appropriateness. Christians could enjoy Pantera
 without shame on Napster, just as kids could bypass their parents' wishes and
 listen to the hot, edgy artists at the time such as Kid Rock, Limp Bizkit, and
-Korn.
+Korn. It provided an experience for music that paralleled the experience
+`gopher` once gave to readers.
 
-That was a huge win for society, but the FCC's corporate partners did not see
+P2P was a huge win for society, but the FCC's corporate partners did not see
 things this way. Before P2P, corporations decided what music would be readily
 available to consumers. This allowed them to maintain their stranglehold upon
 listeners, by keeping music fans' interests and tastes safely within the rails
