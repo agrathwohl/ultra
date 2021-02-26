@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
  <title>Andrew Grathwohl</title>
- <link href="https://grathwohl.me/atom.xml" rel="self"/>
- <link href="https://grathwohl.me/"/>
- <updated>2021-01-16T15:23:44-05:00</updated>
- <id>https://grathwohl.me</id>
+ <link href="http://localhost:4000/atom.xml" rel="self"/>
+ <link href="http://localhost:4000/"/>
+ <updated>2021-02-26T14:35:47-05:00</updated>
+ <id>http://localhost:4000</id>
  <author>
    <name></name>
    <email></email>
@@ -13,10 +13,355 @@
 
  
  <entry>
+   <title>Big Tech Censorship Is Net Neutrality 2.0</title>
+   <link href="http://localhost:4000/2021/02/25/censorship"/>
+   <updated>2021-02-25T11:31:30-05:00</updated>
+   <id>http://localhost:4000/2021/02/25/Censorship</id>
+   <content type="html">&lt;p&gt;Ever since a plurality of Americans indicated their support for net neutrality
+circa 2008, a common refrain has been propagated, that leaving ISPs unchecked could
+usher in a new kind of restricted and censored internet.&lt;/p&gt;
+
+&lt;p&gt;Proponents of net neutrality in the United States indicate that their support
+stems from their fears that ISPs will behave badly, and that we will all suffer
+as a result.&lt;/p&gt;
+
+&lt;p&gt;It was suggested that without net neutrality, nothing would stop companies from
+offering privileged access to certain web services at the expense of others,
+stifling free speech and competition in the web technology space. Further, it was
+feared that this could lead to consumers getting charged higher rates to access
+these lanes, leading to unequal access to information across the country.
+This, the neutralists’ said, would politicize all information and unleash
+oppression upon us all.&lt;/p&gt;
+
+&lt;p&gt;Nearly five years after Donald Trump’s FCC rolled back Obama’s popular net
+neutrality regulations, it’s hard to deny that we live very much in the world
+the neutrality proponents feared the most. What happened to Parler shows us that
+services can definitely be given privileged access at the expense of access to
+other services. The ubiquitous use of paywalls by news media and recent
+patronage models such as Patreon and Twitter’s newly-introduced &lt;a href=&quot;https://techcrunch.com/2021/02/25/twitters-super-follow-creator-subscription-takes-shots-at-substack-and-patreon/&quot;&gt;“Super
+Follow”&lt;/a&gt;
+feature also show us that to get reasonable-quality content on the internet, we
+now do indeed have to cough up the bucks.&lt;/p&gt;
+
+&lt;p&gt;But these dingbats that screamed on and on about net neutrality, as if they knew
+anything about it, failed to realize that this future was coming for us one way
+or the other. It would have occurred with or without net neutrality in place.
+And so, it was not the internet service providers and the telecoms that gave us
+the discordant future that is 2021.&lt;/p&gt;
+
+&lt;p&gt;In truth, the same individuals, organizations, and corporations that most vocally
+supported net neutrality are the ones that have been manipulating, censoring, and
+weaponizing the internet as of late. If we can form an understanding of the
+motivations that propelled net neutrality’s supporters and its detractors, we can
+start to see why it is such an unsavory idea, which no consumer would ever want
+forced upon them in practice.&lt;/p&gt;
+
+&lt;p&gt;One rather unsavory character who seemed to understand these motivations well
+was one former US president, Donald Trump. Adding to the delicious irony of it
+all, he expressed this understanding on his now-deleted account on Twitter.
+Twitter is one of net neutrality’s strongest corporate supporters.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/405.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;He was not wrong, which is probably why he was public enemy number one for so
+many years in the eyes of the multi-national corporations that run our world.
+But even Trump could not fully grasp the problems net neutrality would
+introduce, the consequences of which we are still suffering from, despite recent
+regulatory rollbacks.&lt;/p&gt;
+
+&lt;h3 id=&quot;neutral-corruption&quot;&gt;Neutral Corruption&lt;/h3&gt;
+
+&lt;p&gt;Even though a majority of the public supports net neutrality, they &lt;a href=&quot;https://www.pcgamer.com/survey-finds-vast-majority-of-americans-are-clueless-about-net-neutrality/&quot;&gt;do not know
+anything about
+it&lt;/a&gt;.
+In all likelihood, net neutrality’s popularity in opinion polls stems from the
+fact that most Americans highly value the internet and do not want to see
+anything about their current web experience change.&lt;/p&gt;
+
+&lt;p&gt;Wikipedia, as an organization, has done more than just about anybody to help
+reduce the apparent need for net neutrality. Even so, the editors of the “Net neutrality in the United States” article offer quite a different explanation for its popularity.&lt;/p&gt;
+
+&lt;p&gt;From &lt;a href=&quot;https://en.wikipedia.org/wiki/Net_neutrality_in_the_United_States#Support_of_net_neutrality&quot;&gt;Wikipedia&lt;/a&gt;:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Organizations that support net neutrality come from widely varied political backgrounds and include groups such as MoveOn.org, Free Press, Consumer Federation of America, AARP, American Library Association, Public Knowledge, the Media Access Project, the Christian Coalition, TechNet, the American Civil Liberties Union, the Electronic Frontier Foundation, Greenpeace, Tumblr, Kickstarter, Vimeo, Wikia, Mozilla Foundation, NEA, and others.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Of course, these are not at all the reasons why “varied political backgrounds,”
+are unified in their support for net neutrality. But these sorts of false
+attributions are the media industry’s specialty. The Christian Coalition and
+MoveOn.org do not support net neutrality to simply echo the wishes of their
+constituencies - they do so because they, and the other companies listed, share
+significant interests in common.&lt;/p&gt;
+
+&lt;p&gt;Perhaps the authors of the article were not able to see the common connection
+just about all the listed firms share - but I caught it right away. Supporters
+of net neutrality are - for the most part - organizations that originate, filter,
+and distribute &lt;em&gt;information&lt;/em&gt; directly to interested audiences.&lt;/p&gt;
+
+&lt;p&gt;The above firms all are members of one or more of the following sectors:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Non-profit foundations&lt;/li&gt;
+  &lt;li&gt;Political advocacy groups&lt;/li&gt;
+  &lt;li&gt;Social media companies&lt;/li&gt;
+  &lt;li&gt;Broadcasters &amp;amp; media distributors&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Of particular note is net neutrality’s strong support from companies that
+originate new content, ideas, and products, such as Tumblr (memes), Kickstarter
+(products), Vimeo (videos), Wikia (wikis), Mozilla Foundation (web tech &amp;amp;
+resources). These are all companies that provide &lt;em&gt;platforms&lt;/em&gt; for users -
+interfaces that instill creativity, flow, and attitudes that the companies want
+to promote.&lt;/p&gt;
+
+&lt;p&gt;And these companies all promote things that have been rather crucial to
+sustaining our hellish global lockdown scenario: memes to get the
+threatening messages to wear your mask across; new products to keep the illusion
+of a free market economy fresh in our memories; videos to keep people seated,
+indoors, away from others, and; web tech to help sustain the new streaming media
+&lt;del&gt;wasteland&lt;/del&gt; ecosystem.&lt;/p&gt;
+
+&lt;p&gt;No matter how one feels about the strength of net neutrality proponents’
+arguments, the alignment between net neutrality and its supporters is not merely
+ideological. These supporting companies all benefit meaningfully from the
+reimplementation of net neutrality in the United States - just as they did when
+the Obama administration first pushed them through our legal system.&lt;/p&gt;
+
+&lt;h3 id=&quot;what-its-all-about&quot;&gt;What It’s All About&lt;/h3&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;The FCC has been fucking up and making egregious errors in logic for nearly a
+century. It was primarily their policies that led to the conditions that net
+neutrality sought to resolve.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;The modern net neutrality rules need to be understood from the context of prior
+FCC regulation. Starting in the 1930s, FCC regulations began to literally
+stipulate that certain infrastructural technology providers were natural
+monopolies - AT&amp;amp;T in particular. This meant that AT&amp;amp;T’s monopolistic power -
+whether real or imaginary - was codified into US law.&lt;/p&gt;
+
+&lt;p&gt;AT&amp;amp;T’s “natural monopoly” meant that regulatory action had to be taken in order
+to correct the imbalances - or, so everyone was told. It was decided that AT&amp;amp;T
+would be allowed to keep their natural monopoly over the US’s telephone service,
+but in exchange they were to take no actions that would go against the “public’s
+interests.”&lt;/p&gt;
+
+&lt;p&gt;Many actions were taken to enforce this new regulation, but the one most relevant
+to our current discussion was the requirement that AT&amp;amp;T not discriminate the usage
+of their network. In exchange, AT&amp;amp;T demanded they not be held liable for any use
+of their services that would lead to public harm, such as insurrectionists
+plotting over AT&amp;amp;T telephone lines to storm Washington, DC.&lt;/p&gt;
+
+&lt;p&gt;This plan of action had two noticeable impacts: first, it allowed a whole bunch of
+other “natural” monopolies to exist as long as the proper regulations were
+followed, and second, it embedded into the American culture the terribly misguided
+notion that government could involve itself into the deep, inner workings of
+America’s technology companies.&lt;/p&gt;
+
+&lt;p&gt;Eventually, even this model from the 1930s became obsolete among politicians and
+America’s broader society, and so new actions were taken to reverse these
+regulations. The government began to break AT&amp;amp;T up into regional firms, leading
+us to the state we are in today, where one and only one service provider for
+phone, internet, and television is available within a particular locale.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/att.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;When all was said and done, AT&amp;amp;T eventually ended up regaining its monopolistic
+status anyway, and then some. The new 21st century AT&amp;amp;T monopoly is not only one
+of the only games in town for broadband and LTE access across the US, it’s also
+the largest media company in the world through its acquisition of Time Warner. All
+of this was achieved through means that were completely legal and by the book, and
+were supported by the majority of consumers because it was around this time that
+AT&amp;amp;T became the exclusive provider of the new Apple iPhone that had just hit the
+market.&lt;/p&gt;
+
+&lt;h3 id=&quot;whats-actually-true&quot;&gt;What’s Actually True&lt;/h3&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;The total misapprehensions we have today about what communications networks
+need to function are derived from the lies spread by war criminals.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Remember, the government overseeing all of these events was the same government
+whose members have described the internet as “a series of tubes,” and a “dumb pipe.
+“ Al Gore once even claimed to have invented the internet all by himself. These
+days, many naive people will pass around the absurd notion that the US military
+invented the internet, deriving from the fact that DARPAnet, the retarded
+stepchild of the modern internet, was initially conceived and implemented by them.
+These are all examples of the kinds of insidious astroturfing that are common
+among companies that have a vested interest in the internet being a top-down
+monolith controlled by a small oligarchy of vertically-aligned interests.&lt;/p&gt;
+
+&lt;p&gt;Ever since the internet was first introduced to consumers in the 1990s, there
+have been massive efforts in place to treat it just like cable television.
+This was not possible during prior versions of the world-wide-web, such as the
+&lt;code class=&quot;highlighter-rouge&quot;&gt;gopher&lt;/code&gt; protocol, since the design and display of the information was uniform,
+optimized not for engagement or advertisement, but for efficiency of information
+delivery.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/47179.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;In fact, the internet as a technology is designed specifically to avoid the need
+for massive, centralized monopolistic providers. Why? Because the internet is
+made up of a whole lot more than just a bunch of websites that can be viewed in
+a browser.&lt;/p&gt;
+
+&lt;p&gt;Many of the internet’s early use cases were to facilitate direct, sustained
+connections between two discrete systems. The same technology that powers the
+modern web also powers the file transfer protocol (FTP), an old-school way to
+deliver and retrieve binary files. Voice Over IP (VOIP) is yet another totally
+different communications protocol delivered via the internet, again meant to
+facilitate a direct connection between two or more individuals, with no arbiter
+in between.&lt;/p&gt;
+
+&lt;p&gt;But then, the sudden introduction of peer-to-peer (P2P) networking led to a
+worldwide revolution in how people connect to and share with one another. The
+invention of P2P was not at all in corporate America’s roadmap. These
+companies invested billions into creating resilient networks specifically so
+that they could retain their centralized control over the media ecosystem.&lt;/p&gt;
+
+&lt;p&gt;Unsurprisingly, the FCC also hates P2P. What’s wrong with P2P? Well, FTP is
+tolerated because it is a solid legacy standard used by lots of publicly-traded
+mega-corps. VOIP was a technology designed to facilitate the use of the
+telephone to conduct conversations over the modern internet. It, too, is mainly
+used in corporate environments.&lt;/p&gt;
+
+&lt;p&gt;P2P, on the other hand, leveraged all the infrastructure paid for by these same
+corporations, and gave individual users like you and I the power to bypass
+middleware and third-party services to get &lt;strong&gt;direct access to the content we
+desire&lt;/strong&gt; - even without paying for it first.&lt;/p&gt;
+
+&lt;p&gt;P2P entirely smashed the notion that we needed enormous corporate monoliths to
+deliver the kinds of experiences on the internet desired by consumers. When
+Napster came around and made P2P a household name, people were excited mainly by
+the opportunity to work together in a distributed network of fellow enthusiasts.
+But corporate interests and their regulatory partners inside the US government
+had an entirely different perspective.&lt;/p&gt;
+
+&lt;h3 id=&quot;bitch-better-have-my-money&quot;&gt;Bitch Better Have My Money?&lt;/h3&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;Believe it or not, companies were never motivated by revenue losses.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;The media industry - all big supporters of net neutrality - covered the Napster
+fiasco in a way that could only be described as a complete hatchet job. They
+pushed the incessant narrative that this was an issue all about copyright
+infringement - that corporations weren’t being given the return on investment
+they naturally deserved, and that this was wrong.&lt;/p&gt;
+
+&lt;p&gt;The music industry played into this media narrative by getting sue happy via
+the RIAA. Whether intentional or accidental, the effect this had on the
+conversation was chilling. Consumers got so scared of the “risks” of downloading
+music from P2P services that they overlooked the motivations on the side of the
+internet companies and the media.&lt;/p&gt;
+
+&lt;p&gt;Let’s now recall the commonality that net neutrality’s supporters share: they
+originate and distribute new information, media, and products directly to
+interested consumers. &lt;strong&gt;P2P technology directly competes against these corporate
+interests and beats them at their own game!&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Napster’s leveraging of P2P technology actually did not pose any real hindrances
+in the collection of licensing revenues, and in fact had the music industry
+worked with Napster on a revenue model they would likely be in a far, far better
+place today. This is because Napster was effective at delivering something
+universally beloved by all people - music - as quickly as possible, without any
+limitations. However, even more valuable than Napster’s efficiency and
+availability gains was the environment that it gave to the consumers who used
+it. Because it leveraged P2P technology, Napster was able to give music fans a
+safe space to love music indiscriminately, and &lt;strong&gt;without passing judgment.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;After all, music consumers were being worn down by a decade-long conversation,
+started once again by insane war criminals, relating to the dangers posed by
+“inappropriate” kinds of music that were popular at the time. Hair metal,
+grunge, and hip hop were labeled as dangerous to children, and consumers were now
+used to seeing the ridiculous &lt;strong&gt;PARENTAL ADVISORY&lt;/strong&gt; sticker on their favorite CDs.&lt;/p&gt;
+
+&lt;p&gt;By comparison, Napster offered a much cleaner means for enjoying music and
+provided it to people for free, without following the corporate music industry’s
+dogmatic approach to the age-appropriateness. Christians could enjoy Pantera
+without shame on Napster, just as kids could bypass their parents’ wishes and
+listen to the hot, edgy artists at the time such as Kid Rock, Limp Bizkit, and
+Korn.&lt;/p&gt;
+
+&lt;p&gt;That was a huge win for society, but the FCC’s corporate partners did not see
+things this way. Before P2P, corporations decided what music would be readily
+available to consumers. This allowed them to maintain their stranglehold upon
+listeners, by keeping music fans’ interests and tastes safely within the rails
+of their corporate activities. Without these conditions, it would have been far
+too risky for media producers and entertainment distributors to merge, as they
+eventually did. After all, without the guarantee that listeners will stay in
+their lane, how could a single company know that its music publishing division
+would invest in the acts that would benefit its distribution activities?&lt;/p&gt;
+
+&lt;p&gt;After being successfully deployed against music, this same basic model has been
+used against text-driven media such as the news and book publishers, video
+entertainment such as film and television, and even the newer media formats like
+Facebook and Twitter. The latter of these events are likely still fresh in our
+minds. The media operations undertaken against those who fall outside the
+mainstream have ruined lives and have even led to
+&lt;a href=&quot;https://en.wikipedia.org/wiki/YouTube_headquarters_shooting&quot;&gt;murders&lt;/a&gt;. Even
+so, YouTube will never be liable for the
+shooting that occurred at their own offices, resulting from their own highly
+unfair treatment of the shooter, since they enjoy Section 230 protections due to
+their designation as “not a publisher.”&lt;/p&gt;
+
+&lt;p&gt;At the end of the day, this leaves the playing field somewhat tense.
+Infrastructure companies like AT&amp;amp;T, Comcast, and Verizon are natural monopolies
+who want to buy up media companies. Because they are seen as utilities, they are
+shielded from liability for crimes committed with their services. On the other
+hand, big tech firms like Facebook and Twitter are &lt;em&gt;not&lt;/em&gt; monopolies, but they
+enjoy Section 230 protections, which shield them from liability. But they, too,
+want to buy up media companies.&lt;/p&gt;
+
+&lt;p&gt;ISPs are able to integrate media company acquisitions much more deeply into the
+fundamental infrastructure they invest so much in every year, while big tech
+firms rely fully upon the bandwidth provided by the ISPs. This reliance leaves the
+big tech industry with the burning desire to somehow overcome these natural
+technological impediments and bypass the ISPs altogether.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;This desire led media companies, partnering with the silicon valley big tech
+firms, to introduce the ideas of net neutrality to the masses.&lt;/strong&gt; And that is the
+only reason why we are where we are today.&lt;/p&gt;
+
+&lt;h3 id=&quot;what-about-the-detractors&quot;&gt;What About the Detractors?&lt;/h3&gt;
+
+&lt;p&gt;Perhaps not surprisingly, AT&amp;amp;T is one of the key opponents of net neutrality
+regulation, and it was their preferred candidate, Donald Trump, who successfully
+rolled back the FCC regulations. After all, why would any telecom or ISP in
+their position want to have draconian “neutrality” rules forced upon then when
+they already take full advantage of their immunity from liability? It’s a
+trade-off with no upside for the ISPs.&lt;/p&gt;
+
+&lt;p&gt;In recent examples like YouTube, and even in the case of Napster, companies like
+AT&amp;amp;T have things made in the shade. They are well aware that their
+infrastructure was used to deliver YouTube’s services to the YouTube HQ shooter,
+and they are aware that millions of their customers used their services to
+“illegally,” download MP3s from Napster. But none of this matters to AT&amp;amp;T, it’s
+a matter purely in the hands of the big tech firms.&lt;/p&gt;
+
+&lt;p&gt;It should be clear by now what motivates the telecoms’ decision to oppose net
+neutrality, but what about the other corporate detractors out there?&lt;/p&gt;
+
+&lt;p&gt;From Wikipedia:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Net neutrality opponents such as IBM, Intel, Juniper, Qualcomm, and Cisco claim that net neutrality would deter investment into broadband infrastructure, saying that “shifting to Title II means that instead of billions of broadband investment driving other sectors of the economy forward, any reduction in this spending will stifle growth across the entire economy. Title II is going to lead to a slowdown, if not a hold, in broadband build out, because if you don’t know that you can recover on your investment, you won’t make it.” Others argue that the regulation is “a solution that won’t work to a problem that simply doesn’t exist”.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;The contrast between this group of detractors and net neutrality’s proponents
+could not be more clear: detractors are companies that make money selling equipment
+to ISPs. They do not originate ideas or new kinds of media, their business is
+silicone, radio, telephony, and satellites. These are the underlying
+technologies that makes all that content origination possible in the first place
+for firms like Facebook and Twitter.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
    <title>Feedback</title>
-   <link href="https://grathwohl.me/2021/01/16/feedback"/>
+   <link href="http://localhost:4000/2021/01/16/feedback"/>
    <updated>2021-01-16T00:00:00-05:00</updated>
-   <id>https://grathwohl.me/2021/01/16/FEEDBACK</id>
+   <id>http://localhost:4000/2021/01/16/FEEDBACK</id>
    <content type="html">&lt;p&gt;I’ve learned a lot recently about feedback. As an audio engineer, it’s something I know a lot about in practice.&lt;/p&gt;
 
 &lt;p&gt;But I’d done so little thinking about it as a means for understanding systems. I was too busy toiling in the field of electronics, to realize that feedback
@@ -70,9 +415,9 @@ at which point their “state” immediately changes from “clean,” to “dir
  
  <entry>
    <title>I Have Joined Storyboard.fm</title>
-   <link href="https://grathwohl.me/2020/11/08/storyboard"/>
+   <link href="http://localhost:4000/2020/11/08/storyboard"/>
    <updated>2020-11-08T05:10:15-05:00</updated>
-   <id>https://grathwohl.me/2020/11/08/Storyboard</id>
+   <id>http://localhost:4000/2020/11/08/Storyboard</id>
    <content type="html">&lt;blockquote&gt;
   &lt;p&gt;Fixing broken centralized institutions with the power of the human voice.&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -126,9 +471,9 @@ and check back regularly for exciting updates to our platform and service offeri
  
  <entry>
    <title>Musicians: Want Money? Release For Free.</title>
-   <link href="https://grathwohl.me/2020/09/22/free-music"/>
+   <link href="http://localhost:4000/2020/09/22/free-music"/>
    <updated>2020-09-22T05:26:13-04:00</updated>
-   <id>https://grathwohl.me/2020/09/22/Free-Music</id>
+   <id>http://localhost:4000/2020/09/22/Free-Music</id>
    <content type="html">&lt;blockquote&gt;
   &lt;p&gt;Caesars don’t fear the pirate.&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -186,9 +531,9 @@ and check back regularly for exciting updates to our platform and service offeri
  
  <entry>
    <title>Musicians: Want Money? Do Work.</title>
-   <link href="https://grathwohl.me/2020/09/21/music-revenues"/>
+   <link href="http://localhost:4000/2020/09/21/music-revenues"/>
    <updated>2020-09-21T08:14:04-04:00</updated>
-   <id>https://grathwohl.me/2020/09/21/Music-Revenues</id>
+   <id>http://localhost:4000/2020/09/21/Music-Revenues</id>
    <content type="html">&lt;blockquote&gt;
   &lt;p&gt;Musicians everywhere want more - and they want it yesterday. But the answer has been here for two decades.&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -259,9 +604,9 @@ and check back regularly for exciting updates to our platform and service offeri
  
  <entry>
    <title>Browser-Based Audio Metering With the Web Audio API</title>
-   <link href="https://grathwohl.me/2020/08/14/web-audio"/>
+   <link href="http://localhost:4000/2020/08/14/web-audio"/>
    <updated>2020-08-14T06:19:15-04:00</updated>
-   <id>https://grathwohl.me/2020/08/14/Web-Audio</id>
+   <id>http://localhost:4000/2020/08/14/Web-Audio</id>
    <content type="html">&lt;blockquote&gt;
   &lt;p&gt;How to drive your user interface with browser-based audio analysis&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -401,9 +746,9 @@ and check back regularly for exciting updates to our platform and service offeri
  
  <entry>
    <title>Working with RTSP in FFmpeg</title>
-   <link href="https://grathwohl.me/2020/06/23/rtsp-ffmpeg"/>
+   <link href="http://localhost:4000/2020/06/23/rtsp-ffmpeg"/>
    <updated>2020-06-23T08:04:00-04:00</updated>
-   <id>https://grathwohl.me/2020/06/23/RTSP-FFmpeg</id>
+   <id>http://localhost:4000/2020/06/23/RTSP-FFmpeg</id>
    <content type="html">&lt;p&gt;Recently, I’ve found myself situated among a &lt;a href=&quot;https://news.yahoo.com/whats-sound-not-just-york-025006561.html?soc_src=hl-viewer&amp;amp;soc_trk=tw&quot;&gt;great fireworks battle&lt;/a&gt; in Brooklyn, NY. As we continue to work out the details about the heightened fireworks activity across the United States, I felt it was important that I document and share my experience to contribute what I can to the ongoing conversation. So, I grabbed an old IP camera I had in a corner gathering dust, placed it outside on my fire escape, and fired it up to get a decent shot of the night sky in my neighborhood.&lt;/p&gt;
 
 &lt;h2 id=&quot;ip-camera-trickiness&quot;&gt;IP Camera Trickiness&lt;/h2&gt;
@@ -450,9 +795,9 @@ and check back regularly for exciting updates to our platform and service offeri
  
  <entry>
    <title>The Best Free and Open Source Media Software</title>
-   <link href="https://grathwohl.me/2020/05/27/foss-media-software"/>
+   <link href="http://localhost:4000/2020/05/27/foss-media-software"/>
    <updated>2020-05-27T11:51:00-04:00</updated>
-   <id>https://grathwohl.me/2020/05/27/FOSS-Media-Software</id>
+   <id>http://localhost:4000/2020/05/27/FOSS-Media-Software</id>
    <content type="html">&lt;p&gt;The FOSS ecosystem’s many benefits present only a few minor annoyances for sysadmins - the most significant of which is the need for research, as well as trial-and-error, when investigating new software to employ in your stack.&lt;/p&gt;
 
 &lt;p&gt;If you are in need of suggestions for FOSS media software, this article is for you.&lt;/p&gt;
@@ -520,9 +865,9 @@ and check back regularly for exciting updates to our platform and service offeri
  
  <entry>
    <title>Distributed Media's Ancient Origins</title>
-   <link href="https://grathwohl.me/2019/11/04/distributed-media"/>
+   <link href="http://localhost:4000/2019/11/04/distributed-media"/>
    <updated>2019-11-04T07:00:00-05:00</updated>
-   <id>https://grathwohl.me/2019/11/04/Distributed-Media</id>
+   <id>http://localhost:4000/2019/11/04/Distributed-Media</id>
    <content type="html">&lt;blockquote&gt;
   &lt;p&gt;This article originally appeared on the &lt;a href=&quot;https://medium.com/ara-blocks&quot;&gt;ARA Medium channel&lt;/a&gt;.&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -599,9 +944,9 @@ and check back regularly for exciting updates to our platform and service offeri
  
  <entry>
    <title>Audio Mastering Workflow for Linux</title>
-   <link href="https://grathwohl.me/2019/05/05/linuxmasteringflow-1"/>
+   <link href="http://localhost:4000/2019/05/05/linuxmasteringflow-1"/>
    <updated>2019-05-05T12:15:00-04:00</updated>
-   <id>https://grathwohl.me/2019/05/05/linuxmasteringflow_1</id>
+   <id>http://localhost:4000/2019/05/05/linuxmasteringflow_1</id>
    <content type="html">&lt;p&gt;This series of posts will detail the audio mastering workflow I employ on my main Linux workstation:&lt;/p&gt;
 
 &lt;ul&gt;
@@ -766,18 +1111,18 @@ systemctl enable cpupower &amp;amp;&amp;amp; systemctl start cpupower
  
  <entry>
    <title>Participation: Digital Media's Missing Ingredient</title>
-   <link href="https://grathwohl.me/2018/11/15/participation-digital-media"/>
+   <link href="http://localhost:4000/2018/11/15/participation-digital-media"/>
    <updated>2018-11-15T05:44:00-05:00</updated>
-   <id>https://grathwohl.me/2018/11/15/Participation_Digital_Media</id>
+   <id>http://localhost:4000/2018/11/15/Participation_Digital_Media</id>
    <content type="html">&lt;iframe src=&quot;https://docs.google.com/presentation/d/e/2PACX-1vQArwmb8OTVs-eBaUDXaj7XgIPdAkGPvBGYuW5nQWezFNsdeP-alDbX9cvaQRp5UoiQ3p4xSVMT47sm/embed?start=true&amp;amp;loop=false&amp;amp;delayms=30000&quot; frameborder=&quot;0&quot; width=&quot;720&quot; height=&quot;480&quot; allowfullscreen=&quot;true&quot; mozallowfullscreen=&quot;true&quot; webkitallowfullscreen=&quot;true&quot;&gt;&lt;/iframe&gt;
 </content>
  </entry>
  
  <entry>
    <title>Playing Your Audible Audiobooks In Linux</title>
-   <link href="https://grathwohl.me/2018/09/10/audibleffmpeg"/>
+   <link href="http://localhost:4000/2018/09/10/audibleffmpeg"/>
    <updated>2018-09-10T06:44:00-04:00</updated>
-   <id>https://grathwohl.me/2018/09/10/audibleffmpeg</id>
+   <id>http://localhost:4000/2018/09/10/audibleffmpeg</id>
    <content type="html">&lt;p&gt;If you want to convert an Audible .aax file into a less restrictive file format, you can do so with ease using &lt;a href=&quot;https://ffmpeg.org/&quot;&gt;FFmpeg&lt;/a&gt;, one of my all-time favorite GPL projects.&lt;/p&gt;
 
 &lt;p&gt;Navigate to the directory where the .aax file is that you’d like to test on, and perform the following on the command line:&lt;/p&gt;
@@ -793,9 +1138,9 @@ systemctl enable cpupower &amp;amp;&amp;amp; systemctl start cpupower
  
  <entry>
    <title>Hacking Isn’t Searching; It’s Quartering</title>
-   <link href="https://grathwohl.me/2018/06/25/hacking-is-quartering"/>
+   <link href="http://localhost:4000/2018/06/25/hacking-is-quartering"/>
    <updated>2018-06-25T08:00:00-04:00</updated>
-   <id>https://grathwohl.me/2018/06/25/Hacking-Is-Quartering</id>
+   <id>http://localhost:4000/2018/06/25/Hacking-Is-Quartering</id>
    <content type="html">&lt;p&gt;A common critique of the deep state’s dragnet surveillance operation is to depict it as a violation of the Fourth Amendment. The pundits and politicians who publicly railed against the recent NSA and FBI revelations commonly referred to the issue as one of “warrant-less” wiretapping, data collection, and spying.&lt;/p&gt;
 
 &lt;p&gt;But that isn’t quite the game that signals intelligence analysts and network security experts are playing.&lt;/p&gt;
@@ -884,9 +1229,9 @@ Where are the majority of your 2017 financial documents and records stored — a
  
  <entry>
    <title>FFmpeg 3.0 Is Here</title>
-   <link href="https://grathwohl.me/2016/02/14/ffmpeg3ishere"/>
+   <link href="http://localhost:4000/2016/02/14/ffmpeg3ishere"/>
    <updated>2016-02-14T23:11:00-05:00</updated>
-   <id>https://grathwohl.me/2016/02/14/ffmpeg3ishere</id>
+   <id>http://localhost:4000/2016/02/14/ffmpeg3ishere</id>
    <content type="html">&lt;p&gt;The team behind FFmpeg unveiled a major new release, “Einstein,” recently, and in the release notes appears a strongly-worded suggestion:&lt;/p&gt;
 
 &lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;We strongly recommend users, distributors, and system integrators to upgrade unless they use current git master.&lt;/code&gt;&lt;/p&gt;

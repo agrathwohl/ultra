@@ -6,6 +6,25 @@
   <link rel="alternate" type="application/atom+xml" title="{{ site.title }}" href="{{ site.baseurl }}/atom.xml">
   <link rel="sitemap" type="application/xml" title="sitemap" href="{{ site.baseurl }}/sitemap.xml" />
   <style type="text/css">
+    @font-face {
+      font-family: 'EB Garamond';
+      font-style: normal;
+      font-weight: 400;
+      src: local('EB Garamond'), local('EBGaramond'),
+      url(/font/EBGaramond-Regular.ttf) format('truetype');
+    }
+    @font-face {
+      font-family: 'Play';
+      font-style: normal;
+      src: local('Play'),
+      url(/font/Play-Regular.ttf) format('truetype');
+    }
+    @font-face {
+      font-family: 'Play';
+      font-style: bold;
+      src: local('Play'),
+      url(/font/Play-Bold.ttf) format('truetype');
+    }
     {% capture include_to_scssify %}
       {% include inline.scss %}
     {% endcapture %}

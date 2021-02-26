@@ -1,15 +1,17 @@
 body {
-  font-size: 1rem;
+  font-size: 22px;
   line-height: 1.5;
   -webkit-font-smoothing: antialiased;
   text-rendering: optimizeLegibility;
   -webkit-text-size-adjust: 100%;
   zoom: 1;
-  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+  font-family: "EB Garamond", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
 }
+
 
 header p strong {
     text-transform: uppercase;
+    font-family: "Play";
 }
 
 .post-title {
@@ -17,8 +19,11 @@ header p strong {
     margin: 10rem 0;
     color: white;
     padding: 2rem;
+    font-family: "Play";
     font-weight: bold;
 }
+
+h1, h2, h3, h4, h5, h6 {font-family:"Play";}
 
 a,a:visited {
   color: black;
