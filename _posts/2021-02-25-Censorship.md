@@ -73,6 +73,8 @@ From [Wikipedia](https://en.wikipedia.org/wiki/Net_neutrality_in_the_United_Stat
 
 > Organizations that support net neutrality come from widely varied political backgrounds and include groups such as MoveOn.org, Free Press, Consumer Federation of America, AARP, American Library Association, Public Knowledge, the Media Access Project, the Christian Coalition, TechNet, the American Civil Liberties Union, the Electronic Frontier Foundation, Greenpeace, Tumblr, Kickstarter, Vimeo, Wikia, Mozilla Foundation, NEA, and others.
 
+>  Other websites that have spoken out as being supporters of Net Neutrality are Facebook, Amazon, Microsoft, and Google. In December 2017, 83% of voters supported keeping the rules on net neutrality, including 75% of Republican voters, 89% of Democratic voters, and 86% of independent voters.
+
 Of course, these are not at all the reasons why "varied political backgrounds,"
 are unified in their support for net neutrality. But these sorts of false
 attributions are the media industry's specialty. The Christian Coalition and
