@@ -330,3 +330,19 @@ to ISPs. They do not originate ideas or new kinds of media, their business is
 silicone, radio, telephony, and satellites. These are the underlying
 technologies that makes all that content origination possible in the first place
 for firms like Facebook and Twitter.
+
+At the end of the day, the telecoms were more correct than incorrect in their
+assessments. But even they did not get it fully right, because obviously, there
+was a real problem and we are dealing with it right now. So we cannot say it
+doesn't exist, and who among us today would argue that to be the case, anyway?
+
+The truth is that the companies for and against net neutrality were both
+motivated by the same things: their bottom line and their long-term competitive
+outlook. They were not concerned one bit about individual rights, free speech,
+nor the American people. In fact, both camps clearly understood the future that
+was coming to America, and net neutrality was a battle over who would get to
+own and control that future.
+
+And to me, that outcome is the worst possible one we could be facing.
+
+It leaves no space for the American people to dissent.
