@@ -266,13 +266,16 @@ Korn. It provided an experience for music that paralleled the experience
 
 P2P was a huge win for society, but the FCC's corporate partners did not see
 things this way. Before P2P, corporations decided what music would be readily
-available to consumers. This allowed them to maintain their stranglehold upon
-listeners, by keeping music fans' interests and tastes safely within the rails
-of their corporate activities. Without these conditions, it would have been far
-too risky for media producers and entertainment distributors to merge, as they
-eventually did. After all, without the guarantee that listeners will stay in
-their lane, how could a single company know that its music publishing division
-would invest in the acts that would benefit its distribution activities?
+available to consumers, since corporations ran the record stores, radio, and
+television stations - all the industry's entry points. This allowed them to
+maintain their stranglehold upon listeners, by keeping music fans' interests and
+tastes safely on the rails of their corporate activities.
+
+Without these conditions, it would have been far too risky for media producers
+and entertainment distributors to merge, as they eventually did. After all,
+without the guarantee that listeners will stay in their lane, how could a single
+company know that its music publishing division would invest in the acts that would
+benefit its distribution activities?
 
 After being successfully deployed against music, this same basic model has been
 used against text-driven media such as the news and book publishers, video
@@ -286,7 +289,11 @@ shooting that occurred at their own offices, resulting from their own highly
 unfair treatment of the shooter, since they enjoy Section 230 protections due to
 their designation as "not a publisher."
 
-At the end of the day, this leaves the playing field somewhat tense.
+Nasim Najafi Aghdam, the YouTube HQ shooter, certainly seemed to think otherwise.
+
+![](/img/nasim1.png)
+
+At the end of all this history, the playing field has been left somewhat tense.
 Infrastructure companies like AT&T, Comcast, and Verizon are natural monopolies
 who want to buy up media companies. Because they are seen as utilities, they are
 shielded from liability for crimes committed with their services. On the other
