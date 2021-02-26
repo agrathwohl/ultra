@@ -316,7 +316,7 @@ only reason why we are where we are today.
 Perhaps not surprisingly, AT&T is one of the key opponents of net neutrality
 regulation, and it was their preferred candidate, Donald Trump, who successfully
 rolled back the FCC regulations. After all, why would any telecom or ISP in
-their position want to have draconian "neutrality" rules forced upon then when
+their position want to have draconian "neutrality" rules forced upon them when
 they already take full advantage of their immunity from liability? It's a
 trade-off with no upside for the ISPs.
 
