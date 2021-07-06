@@ -14,7 +14,66 @@ and aligning on the work needed to both complete the HVAC installation and to
 resolve the numerous instances of unnecessary damage to my home, safety hazards,
 and poor workmanship found at every stage of the installation.
 
+I have personally never had to design such a list for any of my contractor projects, and figured this would make an amusing public spectacle for my small group of followers. If you want to know how an HVAC installation can become a nightmare, this punch list may be worth a perusal.
+
+Given the horrorshow detailed below, I am expecting all of the below installation errors to be remedied, to be refunded of all labor costs associated with my invoice, and to be compensated for the egregious, unneccessary, and unacceptable damage done to my home's walls, flooring, and ceiling.
+
 This page will be removed from grathwohl.me upon satisfactory completion of all work listed, and upon work sign-off.
+
+## Summary
+
+- In order for the HVAC system to be properly installed, much of the duct reinforcement work done in the basement will need to be improved or redone, most of the registers will need to be re-installed, and several key ducting connection points will need to be re-implemented.
+
+- I will need to hire a structural/floor contractor to reinforce the subfloor, after a floor joist was bafflingly removed from my home's ceiling without prior consultation.
+
+- Given the number of unacceptable register placements, every room in the house will be left with at least one hole in the floor - many of them in prominent areas of foot traffic. The vinyl floor tile will now need to be replaced a mere 1.5 years after it was installed in the home. My bathroom floor was also disfigured, and I will need a separate quote from a specialist to repair/replace that damage.
+
+- A contractor will also need to be hired to repair the erroneous damage done to my living room walls and the panneling along the east basement wall. And this must be done before we begin painting, scheduled for late August. 
+
+## Work Completed
+
+### Registers
+
+| Register # | Room | Status    |
+|------------|------|-----------|
+| R1         |   LR | Incomplete|
+| R2         |   LR | Incomplete|
+| R3         |   LR | Incomplete|
+| R4         |   LR | Incomplete|
+| R5         |   BR | Incomplete|
+| R6         |   KIT | Incomplete|
+| R7         |   MBR | Incomplete|
+| R8         |   GBR | Incomplete|
+
+### Airhandler
+
+| Task                                   | Status     |
+|----------------------------------------|------------|
+| Unblock hot water heater               | Incomplete |
+| Water pan replacement                  | Incomplete |
+| Properly incline the unit              | Incomplete |
+
+### Misc Items
+
+| Task                                     | Status   |
+|------------------------------------------|----------|
+| T1 wire routing outside of return duct   | Incomplete|
+| F1 wall re-mounting                      | Incomplete|
+
+### Ducts
+
+| Task                                                 | Status          |
+|------------------------------------------------------|-----------------|
+| 4-ft reinforcement of flex ducts with <= 1.5 inch sag| Incomplete      |
+|Re-ducting power room                                 | Incomplete      |
+|Adequately support return ductwork                    | Incomplete      |
+|Locate all ducts away from ceiling lights             | Incomplete      |
+
+## External Work
+
+- Handyman for extending closet, repairing wall pannels
+- Floor contractor for reinforcing subfloors
+- Floor contractor for main level floor replacement and linoleum bathroom floor replacement
 
 ## Living Room
 > Registers R1, R2, R3, and R4. Thermostat T1. Return filter F1.
@@ -110,6 +169,8 @@ Register installation location makes no sense. It is installed 2ft away from Liv
 ### Damage
 
 The master bedroom will be left with a hole in the floor within 10 inches of the path taken to enter and exit the room, presenting not only an aesthetic flaw but also a considerable safety hazard.
+
+When individuals walk in and out of the master bedroom, the poorly-supported return duct can be heard vibrating up and down with the added pressure of the footsteps. A video of this shockingly poor workmanship can be found with further details in the **Basement** section of this page.
 
 ## Guest Bedroom 1
 > Register R8.

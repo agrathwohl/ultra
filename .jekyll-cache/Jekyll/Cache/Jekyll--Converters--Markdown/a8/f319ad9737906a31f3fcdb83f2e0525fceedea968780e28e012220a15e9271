@@ -1,4 +1,4 @@
-I"r8<blockquote>
+I"�8<blockquote>
   <p>How to drive your user interface with browser-based audio analysis</p>
 </blockquote>
 
@@ -60,9 +60,9 @@
 
 <p>We’ll now need to write a function that will draw our audio analysis information onto the canvas, in the form of an oscilloscope.</p>
 
-<p>Our <code class="highlighter-rouge">draw()</code> function uses <a href="https://developer.mozilla.org/en-US/docs/Web/API/window/requestAnimationFrame"><code class="highlighter-rouge">requestAnimationFrame()</code></a> to tell the browser that we want it to continuously execute for the purposes of rendering an animation <strong>(A)</strong>. We then grab the current time domain data from the audio analyser node established previously <strong>(B)</strong>.</p>
+<p>Our <code class="language-plaintext highlighter-rouge">draw()</code> function uses <a href="https://developer.mozilla.org/en-US/docs/Web/API/window/requestAnimationFrame"><code class="language-plaintext highlighter-rouge">requestAnimationFrame()</code></a> to tell the browser that we want it to continuously execute for the purposes of rendering an animation <strong>(A)</strong>. We then grab the current time domain data from the audio analyser node established previously <strong>(B)</strong>.</p>
 
-<p>Next, we use our <code class="highlighter-rouge">canvasCtx</code> to set the properties for the line we are about to draw on the canvas <strong>(C)</strong>. Once we’ve done this preliminary work, we are ready to work with our analyser’s buffered audio data. We start by looping through the captured audio and determining how high on the Y axis each item in the array ought to be to accurately render audio levels <strong>(D)</strong>. We conclude the execution of our <code class="highlighter-rouge">draw()</code> function by making our line on the canvas <strong>(E)</strong>.</p>
+<p>Next, we use our <code class="language-plaintext highlighter-rouge">canvasCtx</code> to set the properties for the line we are about to draw on the canvas <strong>(C)</strong>. Once we’ve done this preliminary work, we are ready to work with our analyser’s buffered audio data. We start by looping through the captured audio and determining how high on the Y axis each item in the array ought to be to accurately render audio levels <strong>(D)</strong>. We conclude the execution of our <code class="language-plaintext highlighter-rouge">draw()</code> function by making our line on the canvas <strong>(E)</strong>.</p>
 
 <div class="language-js highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="kd">function</span> <span class="nx">draw</span><span class="p">()</span> <span class="p">{</span>
   <span class="c1">// (A)</span>
@@ -112,12 +112,12 @@
 
 <h4 id="some-best-practices">Some Best Practices</h4>
 
-<p>When using <code class="highlighter-rouge">requestAnimationFrame()</code> it is wise to capture its return value to a new variable, such as <code class="highlighter-rouge">animationId</code>:</p>
+<p>When using <code class="language-plaintext highlighter-rouge">requestAnimationFrame()</code> it is wise to capture its return value to a new variable, such as <code class="language-plaintext highlighter-rouge">animationId</code>:</p>
 
 <div class="language-js highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="kd">var</span> <span class="nx">animationId</span> <span class="o">=</span> <span class="nx">requestAnimationFrame</span><span class="p">(</span><span class="nx">draw</span><span class="p">)</span>
 </code></pre></div></div>
 
-<p>Doing this will allow you to use the <code class="highlighter-rouge">cancelAnimationFrame()</code> method on the window when you want to kill the animation:</p>
+<p>Doing this will allow you to use the <code class="language-plaintext highlighter-rouge">cancelAnimationFrame()</code> method on the window when you want to kill the animation:</p>
 
 <div class="language-js highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nx">wavesurfer</span><span class="p">.</span><span class="nx">on</span><span class="p">(</span><span class="dl">'</span><span class="s1">finish</span><span class="dl">'</span><span class="p">,</span> <span class="p">()</span> <span class="o">=&gt;</span> <span class="p">{</span>
   <span class="k">if</span> <span class="p">(</span><span class="nx">animationid</span><span class="p">)</span> <span class="p">{</span>
