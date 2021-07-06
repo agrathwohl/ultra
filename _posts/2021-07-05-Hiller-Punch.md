@@ -58,7 +58,7 @@ This page will be removed from grathwohl.me upon satisfactory completion of all 
 |------------------------------------------------------|-----------------|
 | 4-ft reinforcement of flex ducts with <= 1.5 inch sag| Incomplete      |
 |Re-ducting power room                                 | Incomplete      |
-|Adequately support return ductwork                    | Incomplete      |
+|Adequately support return ductwork D1                 | Incomplete      |
 |Locate all ducts away from ceiling lights             | Incomplete      |
 
 ## External Work
@@ -140,7 +140,7 @@ The bathroom will be left with a hole in the middle of the floor, presenting not
 
 ![R6](/img/hiller-pics/R6b.jpeg)
 
-- Reinstall the register so that it is rotated and flush against the side wall.
+- Reinstall the register in the corner of the room, so that it is clear of the door opening. It should be rotated and flush against the side and rear walls.
 
 #### Damage
 
