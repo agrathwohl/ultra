@@ -20,7 +20,7 @@ This page will be removed from grathwohl.me upon satisfactory completion of all 
 
 - Given the number of unacceptable register placements, every room in the house will be left with at least one hole in the floor - many of them in prominent areas of foot traffic. The vinyl floor tile will now need to be replaced a mere 1.5 years after it was installed in the home. My bathroom floor was also disfigured, and I will need a separate quote from a specialist to repair/replace that damage.
 
-- A contractor will also need to be hired to repair the erroneous damage done to my living room walls and the panneling along the east basement wall. And this must be done before we begin painting, scheduled for late August. 
+- A contractor will also need to be hired to repair the erroneous damage done to my living room walls and the panneling along the east basement wall. And this must be done before we begin painting, scheduled for late August.
 
 ## Work Completed
 
@@ -123,6 +123,12 @@ install the thermostat.
 
 - Reinstall register R5 to location right of toilet as discussed during July 4th service call.
 
+***There is no return register installed yet in the bathroom, even though the
+room is closed off by two separate doors and is thus subject to positive
+pressure buildup.***
+
+- Install a return register as is best-practice.
+
 #### Damage
 
 ![R5](/img/hiller-pics/R52.jpeg)
@@ -158,6 +164,13 @@ Register installation location makes no sense. It is installed 2ft away from Liv
 
 ![R7](/img/hiller-pics/R72.jpeg)
 
+
+***There is no return register installed yet in the master bedroom, even though the
+room is closed off by two separate doors and is thus subject to positive
+pressure buildup.***
+
+- Install a return register as is best-practice.
+
 ### Damage
 
 The master bedroom will be left with a hole in the floor within 10 inches of the path taken to enter and exit the room, presenting not only an aesthetic flaw but also a considerable safety hazard.
@@ -174,6 +187,12 @@ When individuals walk in and out of the master bedroom, the poorly-supported ret
 Register was installed ~2ft away from the south-facing window, causing it to be within footfall of people getting in and out of bed.
 
 - Reinstall register so that it is flush against the wall, positioned underneath the window.
+
+
+***There is no return register installed yet in the guest bedroom, even though the
+room is closed off by a door and is thus subject to positive pressure buildup.***
+
+- Install a return register as is best-practice.
 
 ### Damage
 

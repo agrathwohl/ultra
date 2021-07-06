@@ -1,4 +1,4 @@
-I"�-<p>This series of posts will detail the audio mastering workflow I employ on my main Linux workstation:</p>
+I"�*<p>This series of posts will detail the audio mastering workflow I employ on my main Linux workstation:</p>
 
 <ul>
   <li>
@@ -11,7 +11,7 @@
     <p>64GB ECC RAM</p>
   </li>
   <li>
-    <p>Arch Linux with the <code class="language-plaintext highlighter-rouge">linux-rt</code> kernel patches</p>
+    <p>Arch Linux with the <code class="highlighter-rouge">linux-rt</code> kernel patches</p>
   </li>
   <li>
     <p><a href="https://www.rme-audio.de/en/products/hdsp_9632.php">RME Hammerfall DSP 9632</a> PCI Audio Card</p>
@@ -39,7 +39,7 @@
 
 <p>Want to use Wine to power your Windows VSTs inside your DAW? There’s an application for that.</p>
 
-<p>Want to use the <code class="language-plaintext highlighter-rouge">realtime</code> kernel patches to ensure your latency never extends beyond 1.9ms? Just <code class="language-plaintext highlighter-rouge">yay -S linux-rt</code> and go brew some coffee. Within an hour you should have a fully functioning realtime kernel OS with incredible latency features. And trust me, you <em>do</em> want to use <code class="language-plaintext highlighter-rouge">linux-rt</code>. Anyone who tells you that audio engineers won’t benefit from using realtime patches doesn’t in any way understand our plight. Using <code class="language-plaintext highlighter-rouge">linux-rt</code> I am able to achieve latencies under 2ms at 44.1kHz with 3 periods per block, using my RME Babyface Pro in Class-Compliant Mode.</p>
+<p>Want to use the <code class="highlighter-rouge">realtime</code> kernel patches to ensure your latency never extends beyond 1.9ms? Just <code class="highlighter-rouge">yay -S linux-rt</code> and go brew some coffee. Within an hour you should have a fully functioning realtime kernel OS with incredible latency features. And trust me, you <em>do</em> want to use <code class="highlighter-rouge">linux-rt</code>. Anyone who tells you that audio engineers won’t benefit from using realtime patches doesn’t in any way understand our plight. Using <code class="highlighter-rouge">linux-rt</code> I am able to achieve latencies under 2ms at 44.1kHz with 3 periods per block, using my RME Babyface Pro in Class-Compliant Mode.</p>
 
 <h2 id="how">How?</h2>
 
@@ -49,58 +49,58 @@
 
 <p>The system I’ve configured and which has been successful for me, is by no means an “all rounder”. By this, I mean that users must go to some lengths to ensure that no extraneous processes are running, no systemd services are operational, etc., unless <em>it is absolutely necessary</em> for your audio tasks.</p>
 
-<p>If you use <code class="language-plaintext highlighter-rouge">linux-rt</code> expecting the same stability for, say, databases and video processing, you’ll be very disappointed. To do this work, simply boot back into the stable <code class="language-plaintext highlighter-rouge">linux</code> kernel that comes with your Arch Linux installation.</p>
+<p>If you use <code class="highlighter-rouge">linux-rt</code> expecting the same stability for, say, databases and video processing, you’ll be very disappointed. To do this work, simply boot back into the stable <code class="highlighter-rouge">linux</code> kernel that comes with your Arch Linux installation.</p>
 
 <h3 id="getting-started">Getting Started</h3>
 
 <p>To get started, simply install a new Arch Linux base OS on your audio PC.</p>
 
-<p>Next, compile the <code class="language-plaintext highlighter-rouge">linux-rt</code> sources by installing the <code class="language-plaintext highlighter-rouge">yay</code> AUR helper, then runnning:</p>
+<p>Next, compile the <code class="highlighter-rouge">linux-rt</code> sources by installing the <code class="highlighter-rouge">yay</code> AUR helper, then runnning:</p>
 
-<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>yay -S linux-rt
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>yay -S linux-rt
 </code></pre></div></div>
 
 <p>You should also acquire the following realtime-oriented tools:</p>
 
-<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>yay -S rtapp rtirq realtime-suggestions cpupower
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>yay -S rtapp rtirq realtime-suggestions cpupower
 </code></pre></div></div>
 
 <h5 id="recommended-settings">Recommended Settings</h5>
 
 <p>Enable the realtime services to run at boot:</p>
 
-<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>systemctl enable rtapp &amp;&amp; systemctl start rtapp
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>systemctl enable rtapp &amp;&amp; systemctl start rtapp
 systemctl enable rtirq &amp;&amp; systemctl start rtirq
 systemctl enable cpupower &amp;&amp; systemctl start cpupower
 </code></pre></div></div>
 
-<p>Open the <code class="language-plaintext highlighter-rouge">rtapp</code> config file at <code class="language-plaintext highlighter-rouge">/etc/rtapp/rtapp.conf</code> and add any binaries for audio programs you use there.</p>
+<p>Open the <code class="highlighter-rouge">rtapp</code> config file at <code class="highlighter-rouge">/etc/rtapp/rtapp.conf</code> and add any binaries for audio programs you use there.</p>
 
 <p>Set swappiness lower than default by running:</p>
 
-<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>sudo sysctl vm.swappiness=10
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>sudo sysctl vm.swappiness=10
 </code></pre></div></div>
 
-<p>Set the CPU governor to <code class="language-plaintext highlighter-rouge">performance</code>:</p>
+<p>Set the CPU governor to <code class="highlighter-rouge">performance</code>:</p>
 
-<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>sudo cpupower frequency-set -g performance
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>sudo cpupower frequency-set -g performance
 </code></pre></div></div>
 
-<p>Finally, run the <code class="language-plaintext highlighter-rouge">realtime-suggestions</code> program to see what it thinks about your configuration. It will give you warnings if anything should change.</p>
+<p>Finally, run the <code class="highlighter-rouge">realtime-suggestions</code> program to see what it thinks about your configuration. It will give you warnings if anything should change.</p>
 
 <h3 id="software">Software</h3>
 
 <h4 id="jack2--cadence">JACK2 &amp; Cadence</h4>
 
-<p>We will be using <code class="language-plaintext highlighter-rouge">jack2</code> because using <code class="language-plaintext highlighter-rouge">jack</code> in 2019 is stupid! The multi-threading, MIDI, and other various features of <code class="language-plaintext highlighter-rouge">jack2</code> are deal-breakers, not nice-to-haves.</p>
+<p>We will be using <code class="highlighter-rouge">jack2</code> because using <code class="highlighter-rouge">jack</code> in 2019 is stupid! The multi-threading, MIDI, and other various features of <code class="highlighter-rouge">jack2</code> are deal-breakers, not nice-to-haves.</p>
 
-<p>Also we will use <code class="language-plaintext highlighter-rouge">cadence</code> to configure our JACK settings.</p>
+<p>Also we will use <code class="highlighter-rouge">cadence</code> to configure our JACK settings.</p>
 
 <p><img src="https://kx.studio/screenshots/cadence1.png" alt="" /></p>
 
 <p>Get everything you need by running:</p>
 
-<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>yay -S jack2 cadence alsa-firmware alsa-utils alsa-tools
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>yay -S jack2 cadence alsa-firmware alsa-utils alsa-tools
 </code></pre></div></div>
 
 <h5 id="recommended-settings-1">Recommended Settings</h5>
@@ -111,21 +111,21 @@ systemctl enable cpupower &amp;&amp; systemctl start cpupower
 
 <h4 id="non-daw">non-daw</h4>
 
-<p>I love <code class="language-plaintext highlighter-rouge">non-daw</code>. It’s a modular DAW which allows one to roll their own audio workflows.</p>
+<p>I love <code class="highlighter-rouge">non-daw</code>. It’s a modular DAW which allows one to roll their own audio workflows.</p>
 
-<p><code class="language-plaintext highlighter-rouge">non</code> comes with:</p>
+<p><code class="highlighter-rouge">non</code> comes with:</p>
 
-<p><code class="language-plaintext highlighter-rouge">non-mixer</code>: A super fast audio mixing engine. It’s got an extremely functional <a href="http://non.tuxfamily.org/mixer/doc/spatialization-console.png">spatial panner</a>!</p>
+<p><code class="highlighter-rouge">non-mixer</code>: A super fast audio mixing engine. It’s got an extremely functional <a href="http://non.tuxfamily.org/mixer/doc/spatialization-console.png">spatial panner</a>!</p>
 
-<p><code class="language-plaintext highlighter-rouge">non-session-manager</code>: A session management interface which handles all plugin states, audio interconnections, and routing specifications.</p>
+<p><code class="highlighter-rouge">non-session-manager</code>: A session management interface which handles all plugin states, audio interconnections, and routing specifications.</p>
 
-<p><code class="language-plaintext highlighter-rouge">non-sequencer</code>: A midi and audio file tracking sequencer which is serviceable for most uses as long as you’re not looking to become a Venetian Snares copycat. It’s got this novel concept of a “phrase” which is essentially a way to break down compositions into units of musical gestures.</p>
+<p><code class="highlighter-rouge">non-sequencer</code>: A midi and audio file tracking sequencer which is serviceable for most uses as long as you’re not looking to become a Venetian Snares copycat. It’s got this novel concept of a “phrase” which is essentially a way to break down compositions into units of musical gestures.</p>
 
-<p><code class="language-plaintext highlighter-rouge">non-timeline</code>: A multi-track timeline view which enables lining up all your tracks, components, and outputs, unified by a single clock.</p>
+<p><code class="highlighter-rouge">non-timeline</code>: A multi-track timeline view which enables lining up all your tracks, components, and outputs, unified by a single clock.</p>
 
 <p>For mastering purposes, I have installed the following:</p>
 
-<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>yay -S non-mixer non-session-manager
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>yay -S non-mixer non-session-manager
 </code></pre></div></div>
 
 <h4 id="carla-vst-bridge">Carla: VST Bridge</h4>
@@ -136,13 +136,13 @@ systemctl enable cpupower &amp;&amp; systemctl start cpupower
 
 <p>Before installing Carla, let’s prepare our system:</p>
 
-<p>First step is to make sure we are reading from Arch’s <code class="language-plaintext highlighter-rouge">multilib</code> repo. To do that, uncomment the multilib repository information in <code class="language-plaintext highlighter-rouge">/etc/pacman.conf</code>.</p>
+<p>First step is to make sure we are reading from Arch’s <code class="highlighter-rouge">multilib</code> repo. To do that, uncomment the multilib repository information in <code class="highlighter-rouge">/etc/pacman.conf</code>.</p>
 
-<p>Next, we install wine: <code class="language-plaintext highlighter-rouge">yay -S wine-staging</code>. It is critical that you use <code class="language-plaintext highlighter-rouge">wine-staging</code> from the AUR and not the production-ready wine binary, because only <code class="language-plaintext highlighter-rouge">wine-staging</code> supports running VST plugins in RT mode.</p>
+<p>Next, we install wine: <code class="highlighter-rouge">yay -S wine-staging</code>. It is critical that you use <code class="highlighter-rouge">wine-staging</code> from the AUR and not the production-ready wine binary, because only <code class="highlighter-rouge">wine-staging</code> supports running VST plugins in RT mode.</p>
 
 <p>Now you can install carla and all the necessary modules:</p>
 
-<p><code class="language-plaintext highlighter-rouge">yay -S carla-git carla-bridges</code></p>
+<p><code class="highlighter-rouge">yay -S carla-git carla-bridges</code></p>
 
 <p>Now, you can use Carla to load Windows VST2 and VST3s (both 32bit and 64bit supported) <a href="https://kx.studio/Applications:Carla#Usage">with ease</a>!</p>
 
@@ -152,9 +152,9 @@ systemctl enable cpupower &amp;&amp; systemctl start cpupower
 
 <h2 id="conclusion--up-next">Conclusion / Up Next</h2>
 
-<p>This concludes <em>Part 1</em> of this series of posts. You should now be able to run your new Arch Linux install in <code class="language-plaintext highlighter-rouge">realtime</code> mode, achieving incredible latencies without risking system stability. And you should even be able to run your Windows VSTs within your Arch system by utilizing <code class="language-plaintext highlighter-rouge">wine-staging</code>!</p>
+<p>This concludes <em>Part 1</em> of this series of posts. You should now be able to run your new Arch Linux install in <code class="highlighter-rouge">realtime</code> mode, achieving incredible latencies without risking system stability. And you should even be able to run your Windows VSTs within your Arch system by utilizing <code class="highlighter-rouge">wine-staging</code>!</p>
 
-<p>In <em>Part 2</em> of this series, I’ll demonstrate how to manage your audio signal flows, custom routing, plugin states, and more. We’ll also introduce the concepts of MIDI and OSC communication with <code class="language-plaintext highlighter-rouge">jack2</code> and the ALSA framework so that you can use your interface hardware to interact with Ardour5, non-daw, etc.</p>
+<p>In <em>Part 2</em> of this series, I’ll demonstrate how to manage your audio signal flows, custom routing, plugin states, and more. We’ll also introduce the concepts of MIDI and OSC communication with <code class="highlighter-rouge">jack2</code> and the ALSA framework so that you can use your interface hardware to interact with Ardour5, non-daw, etc.</p>
 
 <p>All of the musical and audio engineering work I do originates from my Linux audio systems. Check out what I’ve achieved using only free and open source software, at the <a href="https://multipli.city">Sonic Multiplicities homepage</a>. You can hear many of my mastering projects at <a href="https://soundcloud.com/sacreddata">my old company’s SoundCloud account</a>.</p>
 :ET
