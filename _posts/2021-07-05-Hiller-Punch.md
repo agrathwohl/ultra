@@ -10,7 +10,7 @@ particularly problematic HVAC installation performed on my new home by [Hiller o
 Dickson, TN](https://happyhiller.com/locations/dickson/).
 
 The goal of this page is to serve as a central location for logging, tracking,
-and aligning on the work needed to both complete the HVAV installation and to
+and aligning on the work needed to both complete the HVAC installation and to
 resolve the numerous instances of unnecessary damage to my home, safety hazards,
 and poor workmanship found at every stage of the installation.
 
@@ -82,7 +82,12 @@ The bathroom will be left with a hole in the middle of the floor, presenting not
 > Register R6.
 
 ### Register
+
+![R6](/img/hiller-pics/R6a.jpeg)
+
 ***Register R6 was improperly installed perpendicular to the side wall, and was positioned to be directly underneath the path the back door takes while opening it. The grille hole was uncleanly cut, resulting in the metal grille protruding off the kitchen floor by more than 1 inch. As a result of the unclean grille hole cut, the grille sometimes collides with the kitchen door while it is being opened.***
+
+![R6](/img/hiller-pics/R6b.jpeg)
 
 - Reinstall the register so that it is rotated and flush against the side wall.
 
@@ -200,6 +205,9 @@ follow the installation guidance which was approved.
 
 #### Power Room
 
+![WTF?!](/img/hiller-pics/wtf1.jpeg)
+![WTF?!](/img/hiller-pics/wtf2.jpeg)
+
 A floor joist was removed from the closet in the power room without permission,
 and now the subfloor is not being supported in this area. The closet has had
 sections cut out from the front paneling in an effort to maneuver vents back up
@@ -208,3 +216,6 @@ towards the ceiling.
 Repairs will need to be made to extend the closet out to 24inches depth, in
 order to reinforce this area of floor and repair the structural integrity of the
 closet.
+
+![WTF?!](/img/hiller-pics/wtf3.jpeg)
+![WTF?!](/img/hiller-pics/wtf4.jpeg)
