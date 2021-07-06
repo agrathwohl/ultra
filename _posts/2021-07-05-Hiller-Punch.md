@@ -103,7 +103,7 @@ This page will be removed from grathwohl.me upon satisfactory completion of all 
 
 ![F1+T1](/img/hiller-pics/F1+T1.jpeg)
 
-***Return filter F1 duct connects to wall bracket through exposed dry wall with no surrounding insulation. Return duct should connect flush with the return filter bracket to ensure the filter does not begin to fill with materials from the dry wall over time.***
+***Return filter F1 duct connects to wall bracket through exposed dry wall with no surrounding insulation. Return duct should connect flush with the return filter bracket to ensure the filter does not begin to fill with materials from the dry wall over time. It should have any [exposed drywall treated to prevent damage to the wall supporting the bracket](https://inspectapedia.com/aircond/ducts/ReturnAirInlet026DJFs.jpg).***
 
 - Remount the return duct so that it is flush with the return wall filter, and does not allow for space between the filter and the uncovered drywall beneath.
 
@@ -292,14 +292,20 @@ follow the installation guidance which was approved.
 ![WTF?!](/img/hiller-pics/wtf1.jpeg)
 ![WTF?!](/img/hiller-pics/wtf2.jpeg)
 
-A floor joist was removed from the closet in the power room without permission,
+***A floor joist was removed from the closet in the power room without permission,
 and now the subfloor is not being supported in this area. The closet has had
 sections cut out from the front paneling in an effort to maneuver vents back up
-towards the ceiling.
+towards the ceiling.***
 
 Repairs will need to be made to extend the closet out to 24inches depth, in
 order to reinforce this area of floor and repair the structural integrity of the
 closet.
+
+***This flex duct has several significant sharp bends in its material.***
+
+- Replace this bent flex duct with new flex ducting, making sure to not
+    unnecessarily bend the material when connecting it to the floor registers
+    above.
 
 ![WTF?!](/img/hiller-pics/wtf3.jpeg)
 ![WTF?!](/img/hiller-pics/wtf4.jpeg)
