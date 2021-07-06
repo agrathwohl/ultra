@@ -24,6 +24,18 @@ This page will be removed from grathwohl.me upon satisfactory completion of all 
 
 ## Work Completed
 
+### Rooms
+
+| Room               | # of Issues    | Status          |
+|--------------------|----------------|-----------------|
+|Living Room (LR)    | 6              | Incomplete      |
+|Kitchen     (KIT)   | 1              | Incomplete      |
+|Master Bedroom (MBR)| 3              | Incomplete      |
+|Guest Bedroom (GBR) | 2              | Incomplete      |
+|Basement            | 8              | Incomplete      |
+|Power Room          | 1              | Incomplete      |
+|Server Room         | 1              | Incomplete      |
+
 ### Registers
 
 | Register # | Room | Status    |

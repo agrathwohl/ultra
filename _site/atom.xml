@@ -4,7 +4,7 @@
  <title>Andrew Grathwohl</title>
  <link href="https://grathwohl.me/atom.xml" rel="self"/>
  <link href="https://grathwohl.me/"/>
- <updated>2021-07-06T09:14:29-05:00</updated>
+ <updated>2021-07-06T09:46:03-05:00</updated>
  <id>https://grathwohl.me</id>
  <author>
    <name></name>
@@ -42,6 +42,55 @@ and lacking workmanship.&lt;/p&gt;
 &lt;/ul&gt;
 
 &lt;h2 id=&quot;work-completed&quot;&gt;Work Completed&lt;/h2&gt;
+
+&lt;h3 id=&quot;rooms&quot;&gt;Rooms&lt;/h3&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;Room&lt;/th&gt;
+      &lt;th&gt;# of Issues&lt;/th&gt;
+      &lt;th&gt;Status&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Living Room (LR)&lt;/td&gt;
+      &lt;td&gt;6&lt;/td&gt;
+      &lt;td&gt;Incomplete&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Kitchen     (KIT)&lt;/td&gt;
+      &lt;td&gt;1&lt;/td&gt;
+      &lt;td&gt;Incomplete&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Master Bedroom (MBR)&lt;/td&gt;
+      &lt;td&gt;3&lt;/td&gt;
+      &lt;td&gt;Incomplete&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Guest Bedroom (GBR)&lt;/td&gt;
+      &lt;td&gt;2&lt;/td&gt;
+      &lt;td&gt;Incomplete&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Basement&lt;/td&gt;
+      &lt;td&gt;8&lt;/td&gt;
+      &lt;td&gt;Incomplete&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Power Room&lt;/td&gt;
+      &lt;td&gt;1&lt;/td&gt;
+      &lt;td&gt;Incomplete&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Server Room&lt;/td&gt;
+      &lt;td&gt;1&lt;/td&gt;
+      &lt;td&gt;Incomplete&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
 
 &lt;h3 id=&quot;registers&quot;&gt;Registers&lt;/h3&gt;
 
