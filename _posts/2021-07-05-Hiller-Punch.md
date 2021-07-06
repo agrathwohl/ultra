@@ -5,18 +5,10 @@ date: 2021-07-05 14:24:41
 categories: misc
 ---
 
-This is a punch list I have been forced to produce, resulting from a
-particularly problematic HVAC installation performed on my new home by [Hiller of
-Dickson, TN](https://happyhiller.com/locations/dickson/).
-
 The goal of this page is to serve as a central location for logging, tracking,
-and aligning on the work needed to both complete the HVAC installation and to
-resolve the numerous instances of unnecessary damage to my home, safety hazards,
-and poor workmanship found at every stage of the installation.
-
-I have personally never had to design such a list for any of my contractor projects, and figured this would make an amusing public spectacle for my small group of followers. If you want to know how an HVAC installation can become a nightmare, this punch list may be worth a perusal.
-
-Given the horrorshow detailed below, I am expecting all of the below installation errors to be remedied, to be refunded of all labor costs associated with my invoice, and to be compensated for the egregious, unneccessary, and unacceptable damage done to my home's walls, flooring, and ceiling.
+and aligning on the work needed to both complete my HVAC installation and to
+resolve the numerous instances of damage, safety hazards,
+and lacking workmanship.
 
 This page will be removed from grathwohl.me upon satisfactory completion of all work listed, and upon work sign-off.
 
